@@ -8,7 +8,7 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <!-- Profile Photograph -->
+  <!-- Profile Photo -->
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
       <img src="{{ author.avatar }}"
@@ -22,23 +22,62 @@
     {% endif %}
   </div>
 
-  <!-- Name and Academic Biography -->
+  <!-- Name, Pronouns, Emails, and Bio -->
   <div class="author__content">
+
     <h3 class="author__name">{{ author.name }}</h3>
 
     {% if author.pronouns %}
-      <p class="author__pronouns">{{ author.pronouns }}</p>
+      <p class="author__pronouns">
+        {{ author.pronouns }}
+      </p>
     {% endif %}
 
-    {% if author.bio %}
-      <p class="author__bio">{{ author.bio }}</p>
+    <!-- Academic Email Below Name -->
+    {% if author.academic_email %}
+      <p style="font-size: 0.8em;
+                margin: 10px 0 5px;
+                line-height: 1.5;
+                overflow-wrap: anywhere;">
+        <i class="fas fa-envelope"
+           aria-hidden="true"></i>
+        <strong>Academic:</strong>
+        <a href="mailto:{{ author.academic_email }}">
+          {{ author.academic_email }}
+        </a>
+      </p>
     {% endif %}
+
+    <!-- Personal Email Below Name -->
+    {% if author.email %}
+      <p style="font-size: 0.8em;
+                margin: 5px 0 12px;
+                line-height: 1.5;
+                overflow-wrap: anywhere;">
+        <i class="fas fa-envelope"
+           aria-hidden="true"></i>
+        <strong>Personal:</strong>
+        <a href="mailto:{{ author.email }}">
+          {{ author.email }}
+        </a>
+      </p>
+    {% endif %}
+
+    <!-- Short Academic Biography -->
+    {% if author.bio %}
+      <p class="author__bio">
+        {{ author.bio }}
+      </p>
+    {% endif %}
+
   </div>
 
-  <!-- Contact and Academic Links -->
+  <!-- Location, University, and Academic Links -->
   <div class="author__urls-wrapper">
 
-    <button class="btn btn--inverse">Follow</button>
+    <button class="btn btn--inverse">
+      Follow
+    </button>
 
     <ul class="author__urls social-icons">
 
@@ -60,7 +99,7 @@
         </li>
       {% endif %}
 
-      <!-- Personal Website -->
+      <!-- Website -->
       {% if author.uri %}
         <li>
           <a href="{{ author.uri }}">
@@ -71,72 +110,100 @@
         </li>
       {% endif %}
 
-      <!-- Academic Email -->
-      {% if author.academic_email %}
-        <li>
-          <a href="mailto:{{ author.academic_email }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right"
-               aria-hidden="true"></i>
-            Academic Email
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Personal Email -->
-      {% if author.email %}
-        <li>
-          <a href="mailto:{{ author.email }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right"
-               aria-hidden="true"></i>
-            Personal Email
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Academic Profiles -->
+      <!-- Academia -->
       {% if author.academia %}
-        <li><a href="{{ author.academia }}">Academia.edu</a></li>
+        <li>
+          <a href="{{ author.academia }}">
+            Academia.edu
+          </a>
+        </li>
       {% endif %}
 
+      <!-- arXiv -->
       {% if author.arxiv %}
-        <li><a href="{{ author.arxiv }}">arXiv</a></li>
+        <li>
+          <a href="{{ author.arxiv }}">
+            arXiv
+          </a>
+        </li>
       {% endif %}
 
+      <!-- Google Scholar -->
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}">
-          <i class="ai ai-google-scholar ai-fw icon-pad-right"></i>
-          Google Scholar
-        </a></li>
+        <li>
+          <a href="{{ author.googlescholar }}">
+            <i class="ai ai-google-scholar ai-fw icon-pad-right"
+               aria-hidden="true"></i>
+            Google Scholar
+          </a>
+        </li>
       {% endif %}
 
+      <!-- ORCID -->
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}">
-          <i class="ai ai-orcid ai-fw icon-pad-right"></i>
-          ORCID
-        </a></li>
+        <li>
+          <a href="{{ author.orcid }}">
+            <i class="ai ai-orcid ai-fw icon-pad-right"
+               aria-hidden="true"></i>
+            ORCID
+          </a>
+        </li>
       {% endif %}
 
+      <!-- SSRN -->
       {% if author.ssrn %}
-        <li><a href="{{ author.ssrn }}">SSRN</a></li>
+        <li>
+          <a href="{{ author.ssrn }}">
+            SSRN
+          </a>
+        </li>
       {% endif %}
 
+      <!-- ResearchGate -->
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}">
-          <i class="fab fa-fw fa-researchgate icon-pad-right"></i>
-          ResearchGate
-        </a></li>
+        <li>
+          <a href="{{ author.researchgate }}">
+            <i class="fab fa-fw fa-researchgate icon-pad-right"
+               aria-hidden="true"></i>
+            ResearchGate
+          </a>
+        </li>
       {% endif %}
 
+      <!-- Semantic Scholar -->
       {% if author.semantic %}
-        <li><a href="{{ author.semantic }}">Semantic Scholar</a></li>
+        <li>
+          <a href="{{ author.semantic }}">
+            Semantic Scholar
+          </a>
+        </li>
       {% endif %}
 
+      <!-- Zotero -->
       {% if author.zotero %}
-        <li><a href="{{ author.zotero }}">Zotero</a></li>
+        <li>
+          <a href="{{ author.zotero }}">
+            Zotero
+          </a>
+        </li>
       {% endif %}
 
+      <!-- PubMed -->
       {% if author.pubmed %}
-        <li><a href="{{ author.pubmed }}">PubMed</a></li>
+        <li>
+          <a href="{{ author.pubmed }}">
+            PubMed
+          </a>
+        </li>
+      {% endif %}
+
+      <!-- Scopus -->
+      {% if author.scopus %}
+        <li>
+          <a href="{{ author.scopus }}">
+            Scopus
+          </a>
+        </li>
       {% endif %}
 
       <!-- GitHub -->
@@ -161,23 +228,34 @@
         </li>
       {% endif %}
 
-      <!-- Additional Academic Profiles -->
-      {% if author.scopus %}
-        <li><a href="{{ author.scopus }}">Scopus</a></li>
-      {% endif %}
-
+      <!-- Kaggle -->
       {% if author.kaggle %}
-        <li><a href="https://kaggle.com/{{ author.kaggle }}">Kaggle</a></li>
+        <li>
+          <a href="https://kaggle.com/{{ author.kaggle }}">
+            Kaggle
+          </a>
+        </li>
       {% endif %}
 
+      <!-- Bluesky -->
       {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}">Bluesky</a></li>
+        <li>
+          <a href="https://bsky.app/profile/{{ author.bluesky }}">
+            Bluesky
+          </a>
+        </li>
       {% endif %}
 
+      <!-- X / Twitter -->
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}">X</a></li>
+        <li>
+          <a href="https://twitter.com/{{ author.twitter }}">
+            X
+          </a>
+        </li>
       {% endif %}
 
     </ul>
+
   </div>
 </div>
