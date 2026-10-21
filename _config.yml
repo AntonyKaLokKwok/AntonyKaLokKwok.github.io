@@ -22,7 +22,6 @@ repository  : "AntonyKaLokKwok/AntonyKaLokKwok.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 
 author:
-  # Biographic information
   avatar         : "profile.png"
   name           : "Ka Lok (Antony) Kwok"
   pronouns       : "he/him"
@@ -32,6 +31,7 @@ author:
   uri            :
   email          : "antony.kalok.kwok@gmail.com"
   academic_email : "Ka_Lok.Kwok@tufts.edu"
+  github         : "AntonyKaLokKwok"
 
   # Academic websites
   academia         : # URL
