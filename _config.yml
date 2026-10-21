@@ -21,15 +21,15 @@ repository  : "AntonyKaLokKwok/AntonyKaLokKwok.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar    : "profile.png"
+  name      : "Ka Lok (Antony) Kwok"
+  pronouns  : "he/him"
+  bio       : "Graduate Student | Economics, Housing Policy, and Spatial Inequality"
+  location  : "Greater Boston, MA"
+  employer  : "Tufts University"
+  email     : "antony.kalok.kwok@gmail.com"
 
   # Academic websites
   academia         : # URL
