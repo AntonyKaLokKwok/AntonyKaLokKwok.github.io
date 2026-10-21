@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "About Me"
@@ -9,19 +10,19 @@ redirect_from:
 
 # Welcome!
 
-I am **Ka Lok (Antony) Kwok**, a graduate student
-at Tufts University pursuing an M.S. in
-Environmental Policy and Planning.
+I am **Ka Lok (Antony) Kwok**, a graduate student at
+Tufts University pursuing an M.S. in Environmental
+Policy and Planning.
 
-I previously earned an M.S. in Economics
-from Tufts University and a B.S. in Economics,
+I previously earned an M.S. in Economics from
+Tufts University and a B.S. in Economics,
 B.A. in Mathematics, and a minor in Statistics
 from the University of Minnesota Twin Cities.
 
-My research interests lie at the intersection
-of **urban economics, housing policy,
-transportation accessibility, spatial inequality,
-and urban informatics**.
+My research interests lie at the intersection of
+**urban economics, housing policy, transportation
+accessibility, spatial inequality, and urban
+informatics**.
 
 I am particularly interested in understanding
 how housing policies and urban development
@@ -38,7 +39,9 @@ to opportunity.
 - Spatial Inequality and Spatial Econometrics
 - Urban Informatics and Digital Information
 
-[Explore My Research →](/research/)
+<a href="/research/" class="btn btn--primary">
+Explore My Research →
+</a>
 
 ---
 
@@ -54,26 +57,22 @@ and urban planning has shaped how I understand
 the relationship between opportunity,
 education, and urban environments.
 
-[Read the Longer Version of My Journey →](/my-journey/)
+<a href="/my-journey/" class="btn btn--primary">
+Read My Story →
+</a>
 
 ---
 
 ## Curriculum Vitae
 
-[Download My Academic CV](/files/Antony_Kwok_CV.pdf)
-
-
----
-
-## Curriculum Vitae
-
-[Download My Academic CV](/files/Antony_Kwok_CV.pdf)
+[View My Academic CV](/cv/)
 
 ---
 
 ## Contact
 
-**Academic Email:** [Ka_Lok.Kwok@tufts.edu](mailto:Ka_Lok.Kwok@tufts.edu)
+**Academic Email:**
+[Ka_Lok.Kwok@tufts.edu](mailto:Ka_Lok.Kwok@tufts.edu)
 
-**Personal Email:** [antony.kalok.kwok@gmail.com](mailto:antony.kalok.kwok@gmail.com)
-
+**Personal Email:**
+[antony.kalok.kwok@gmail.com](mailto:antony.kalok.kwok@gmail.com)
