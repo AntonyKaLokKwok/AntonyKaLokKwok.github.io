@@ -61,3 +61,19 @@ education, and urban environments.
 ## Curriculum Vitae
 
 [Download My Academic CV](/files/Antony_Kwok_CV.pdf)
+
+
+---
+
+## Curriculum Vitae
+
+[Download My Academic CV](/files/Antony_Kwok_CV.pdf)
+
+---
+
+## Contact
+
+**Academic Email:** [Ka_Lok.Kwok@tufts.edu](mailto:Ka_Lok.Kwok@tufts.edu)
+
+**Personal Email:** [antony.kalok.kwok@gmail.com](mailto:antony.kalok.kwok@gmail.com)
+
