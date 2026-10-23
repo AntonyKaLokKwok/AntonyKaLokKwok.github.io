@@ -42,24 +42,6 @@ My transition from competitive athletics to higher education was far from straig
 
 ---
 
-## Beyond Research: My Journey
-
-My interest in urban inequality is shaped not
-only by academic research but also by my
-personal experiences growing up in Hong Kong.
-
-As a first-generation university student,
-my journey through economics, mathematics,
-and urban planning has shaped how I understand
-the relationship between opportunity,
-education, and urban environments.
-
-<a href="/my-journey/" class="btn btn--primary">
-Read My Story →
-</a>
-
----
-
 ## Curriculum Vitae
 
 [View My Academic CV](/cv/)
