@@ -35,10 +35,11 @@
     {% endif %}
 
 {% if author.bio %}
-  <div class="author__bio"
-       style="white-space: pre-line; line-height: 1.55;">
+  <p class="author__bio"
+     style="white-space: pre-line;
+            line-height: 1.5;">
     {{ author.bio | escape }}
-  </div>
+  </p>
 {% endif %}
 
   </div>
@@ -61,7 +62,16 @@
         </li>
       {% endif %}
 
-<!-- Undergraduate Institution -->
+<!-- Current University -->
+{% if author.employer %}
+  <li class="author__desktop">
+    <i class="fas fa-fw fa-building-columns icon-pad-right"
+       aria-hidden="true"></i>
+    {{ author.employer }}
+  </li>
+{% endif %}
+
+<!-- Undergraduate University -->
 <li class="author__desktop">
   <i class="fas fa-fw fa-graduation-cap icon-pad-right"
      aria-hidden="true"></i>
