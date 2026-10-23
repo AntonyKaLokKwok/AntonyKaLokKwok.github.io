@@ -25,11 +25,9 @@ author:
   avatar         : "profile.png"
   name           : "Ka Lok (Antony) Kwok"
   pronouns       : "he/him"
-  bio: |
-    Graduate Research and Teaching Assistant | StAAR Center Graduate Tutor (Economics, Statistics, and Mathematics)
+  bio: "Graduate Research and Teaching Assistant | StAAR Center Graduate Tutor in Economics, Statistics, and Mathematics (Undergraduate and Graduate Students)"
 
-    Research Interests:
-    Urban Economics, Housing Policy, Transportation Accessibility, Spatial Inequality and GIS, Urban Informatics, Applied and Spatial Econometrics, Health Policy, Economics of Education and Educational Inequality, Labor Economics, Gender Inequality, Income Inequality, and Food Policy.
+  research_interests: "Urban Economics, Housing Policy, Transportation Accessibility, Spatial Inequality and GIS, Urban Informatics, Applied and Spatial Econometrics, Health Policy, Economics of Education and Educational Inequality, Labor Economics, Gender Inequality, Income Inequality, and Food Policy."
   location       : "Greater Boston, MA"
   employer       : "Tufts University"
   uri            :
