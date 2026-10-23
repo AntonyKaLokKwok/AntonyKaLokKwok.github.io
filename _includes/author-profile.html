@@ -23,7 +23,7 @@
     {% endif %}
   </div>
 
-  <!-- Name, Pronouns, and Academic Bio -->
+  <!-- Name, Pronouns, and Biography -->
   <div class="author__content">
 
     <h3 class="author__name">{{ author.name }}</h3>
@@ -42,7 +42,7 @@
 
   </div>
 
-  <!-- Contact Information and Academic Links -->
+  <!-- Academic Information and Contact Links -->
   <div class="author__urls-wrapper">
 
     <button class="btn btn--inverse">
@@ -69,206 +69,94 @@
         </li>
       {% endif %}
 
+      <!-- Academic Email -->
+      {% if author.academic_email %}
+        <li style="margin-top: 15px;
+                   margin-bottom: 12px;">
 
-<!-- Academic Email -->
-{% if author.academic_email %}
-  <li style="margin-top: 15px; margin-bottom: 12px;">
-    <div style="font-size: 0.9em; line-height: 1.6;">
-      <strong>
-        <i class="fas fa-fw fa-envelope"
-           aria-hidden="true"></i>
-        Academic Email
-      </strong>
-
-      <div style="margin-top: 3px;
-                  padding-left: 0;
-                  overflow-wrap: anywhere;
-                  word-break: break-word;">
-        <a href="mailto:{{ author.academic_email }}"
-           style="white-space: normal;">
-          {{ author.academic_email }}
-        </a>
-      </div>
-    </div>
-  </li>
-{% endif %}
-
-<!-- Personal Email -->
-{% if author.email %}
-  <li style="margin-bottom: 15px;">
-    <div style="font-size: 0.9em; line-height: 1.6;">
-      <strong>
-        <i class="fas fa-fw fa-envelope"
-           aria-hidden="true"></i>
-        Personal Email
-      </strong>
-
-      <div style="margin-top: 3px;
-                  padding-left: 0;
-                  overflow-wrap: anywhere;
-                  word-break: break-word;">
-        <a href="mailto:{{ author.email }}"
-           style="white-space: normal;">
-          {{ author.email }}
-        </a>
-      </div>
-    </div>
-  </li>
-{% endif %}
-
-
-      <!-- Website -->
-      {% if author.uri %}
-        <li>
-          <a href="{{ author.uri }}">
-            <i class="fas fa-fw fa-link icon-pad-right"
+          <strong style="font-size: 0.9em;">
+            <i class="fas fa-fw fa-envelope"
                aria-hidden="true"></i>
-            Website
-          </a>
+            Academic Email
+          </strong>
+
+          <div style="margin-top: 4px;
+                      font-size: 0.85em;
+                      overflow-wrap: anywhere;
+                      word-break: break-word;
+                      line-height: 1.5;">
+
+            <a href="mailto:{{ author.academic_email }}"
+               style="white-space: normal;">
+              {{ author.academic_email }}
+            </a>
+
+          </div>
         </li>
       {% endif %}
 
-      <!-- Academia.edu -->
-      {% if author.academia %}
-        <li>
-          <a href="{{ author.academia }}">
-            Academia.edu
-          </a>
-        </li>
-      {% endif %}
+      <!-- Personal Email -->
+      {% if author.email %}
+        <li style="margin-bottom: 15px;">
 
-      <!-- arXiv -->
-      {% if author.arxiv %}
-        <li>
-          <a href="{{ author.arxiv }}">
-            arXiv
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Google Scholar -->
-      {% if author.googlescholar %}
-        <li>
-          <a href="{{ author.googlescholar }}">
-            <i class="ai ai-google-scholar ai-fw icon-pad-right"
+          <strong style="font-size: 0.9em;">
+            <i class="fas fa-fw fa-envelope"
                aria-hidden="true"></i>
-            Google Scholar
-          </a>
+            Personal Email
+          </strong>
+
+          <div style="margin-top: 4px;
+                      font-size: 0.85em;
+                      overflow-wrap: anywhere;
+                      word-break: break-word;
+                      line-height: 1.5;">
+
+            <a href="mailto:{{ author.email }}"
+               style="white-space: normal;">
+              {{ author.email }}
+            </a>
+
+          </div>
         </li>
       {% endif %}
 
       <!-- ORCID -->
-      {% if author.orcid %}
-        <li>
-          <a href="{{ author.orcid }}">
-            <i class="ai ai-orcid ai-fw icon-pad-right"
-               aria-hidden="true"></i>
-            ORCID
-          </a>
-        </li>
-      {% endif %}
+      <li>
+        <a href="https://orcid.org/0009-0005-2540-4620"
+           target="_blank"
+           rel="noopener noreferrer">
 
-      <!-- SSRN -->
-      {% if author.ssrn %}
-        <li>
-          <a href="{{ author.ssrn }}">
-            SSRN
-          </a>
-        </li>
-      {% endif %}
+          <i class="ai ai-orcid ai-fw icon-pad-right"
+             aria-hidden="true"></i>
+          ORCID
 
-      <!-- ResearchGate -->
-      {% if author.researchgate %}
-        <li>
-          <a href="{{ author.researchgate }}">
-            <i class="fab fa-fw fa-researchgate icon-pad-right"
-               aria-hidden="true"></i>
-            ResearchGate
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Semantic Scholar -->
-      {% if author.semantic %}
-        <li>
-          <a href="{{ author.semantic }}">
-            Semantic Scholar
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Zotero -->
-      {% if author.zotero %}
-        <li>
-          <a href="{{ author.zotero }}">
-            Zotero
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- PubMed -->
-      {% if author.pubmed %}
-        <li>
-          <a href="{{ author.pubmed }}">
-            PubMed
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Scopus -->
-      {% if author.scopus %}
-        <li>
-          <a href="{{ author.scopus }}">
-            Scopus
-          </a>
-        </li>
-      {% endif %}
+        </a>
+      </li>
 
       <!-- GitHub -->
-      {% if author.github %}
-        <li>
-          <a href="https://github.com/{{ author.github }}">
-            <i class="fab fa-fw fa-github icon-pad-right"
-               aria-hidden="true"></i>
-            GitHub
-          </a>
-        </li>
-      {% endif %}
+      <li>
+        <a href="https://github.com/AntonyKaLokKwok"
+           target="_blank"
+           rel="noopener noreferrer">
 
-      <!-- LinkedIn -->
+          <i class="fab fa-fw fa-github icon-pad-right"
+             aria-hidden="true"></i>
+          GitHub
+
+        </a>
+      </li>
+
+      <!-- LinkedIn, if configured -->
       {% if author.linkedin %}
         <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}">
+          <a href="https://www.linkedin.com/in/{{ author.linkedin }}"
+             target="_blank"
+             rel="noopener noreferrer">
+
             <i class="fab fa-fw fa-linkedin icon-pad-right"
                aria-hidden="true"></i>
             LinkedIn
-          </a>
-        </li>
-      {% endif %}
 
-      <!-- Kaggle -->
-      {% if author.kaggle %}
-        <li>
-          <a href="https://kaggle.com/{{ author.kaggle }}">
-            Kaggle
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- Bluesky -->
-      {% if author.bluesky %}
-        <li>
-          <a href="https://bsky.app/profile/{{ author.bluesky }}">
-            Bluesky
-          </a>
-        </li>
-      {% endif %}
-
-      <!-- X / Twitter -->
-      {% if author.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ author.twitter }}">
-            X
           </a>
         </li>
       {% endif %}
