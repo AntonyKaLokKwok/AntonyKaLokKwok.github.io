@@ -34,11 +34,12 @@
       </p>
     {% endif %}
 
-    {% if author.bio %}
-      <p class="author__bio">
-        {{ author.bio }}
-      </p>
-    {% endif %}
+{% if author.bio %}
+  <div class="author__bio"
+       style="white-space: pre-line; line-height: 1.55;">
+    {{ author.bio | escape }}
+  </div>
+{% endif %}
 
   </div>
 
@@ -60,14 +61,12 @@
         </li>
       {% endif %}
 
-      <!-- University -->
-      {% if author.employer %}
-        <li class="author__desktop">
-          <i class="fas fa-fw fa-building-columns icon-pad-right"
-             aria-hidden="true"></i>
-          {{ author.employer }}
-        </li>
-      {% endif %}
+<!-- Undergraduate Institution -->
+<li class="author__desktop">
+  <i class="fas fa-fw fa-graduation-cap icon-pad-right"
+     aria-hidden="true"></i>
+  University of Minnesota Twin Cities
+</li>
 
       <!-- Academic Email -->
       {% if author.academic_email %}
