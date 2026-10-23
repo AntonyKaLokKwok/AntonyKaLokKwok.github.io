@@ -7,289 +7,333 @@
   {% assign author = site.author %}
 {% endif %}
 
+<!-- Sidebar scroll and compact spacing -->
+<style>
+  .author-profile-scroll {
+    width: 100%;
+  }
+
+  @media (min-width: 925px) {
+    .author-profile-scroll {
+      max-height: calc(100vh - 90px);
+      overflow-y: auto;
+      overflow-x: hidden;
+      scrollbar-width: thin;
+      scrollbar-gutter: stable;
+      padding-right: 5px;
+      box-sizing: border-box;
+    }
+  }
+
+  .author-profile-scroll .author__bio {
+    line-height: 1.4;
+  }
+
+  .author-profile-scroll .author__urls {
+    margin-top: 5px;
+  }
+
+  .author-profile-scroll .author__urls li {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    overflow-wrap: anywhere;
+  }
+
+  .author-profile-scroll .author__urls li a {
+    overflow-wrap: anywhere;
+  }
+
+  .author-profile-scroll .contact-email {
+    display: block;
+    margin-top: 2px;
+    padding-left: 0;
+    font-size: 0.85em;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    white-space: normal;
+  }
+
+  .author-profile-scroll .profile-links li {
+    line-height: 1.4;
+  }
+</style>
+
 <div itemscope itemtype="http://schema.org/Person">
 
-  <!-- ====================================== -->
-  <!-- PROFILE PHOTOGRAPH -->
-  <!-- ====================================== -->
+  <div class="author-profile-scroll"
+       aria-label="Academic profile and contact information">
 
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-      <img
-        src="{{ author.avatar }}"
-        alt="{{ author.name }}"
-        fetchpriority="high" />
-    {% else %}
-      <img
-        src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}"
-        class="author__avatar"
-        alt="{{ author.name }}"
-        fetchpriority="high" />
-    {% endif %}
-  </div>
+    <!-- =================================== -->
+    <!-- PROFILE PHOTOGRAPH -->
+    <!-- =================================== -->
 
+    <div class="author__avatar">
 
-  <!-- ====================================== -->
-  <!-- NAME, PRONOUNS, AND PROFESSIONAL ROLES -->
-  <!-- ====================================== -->
+      {% if author.avatar contains "://" %}
 
-  <div class="author__content">
+        <img
+          src="{{ author.avatar }}"
+          alt="{{ author.name }}"
+          fetchpriority="high" />
 
-    <h3 class="author__name">
-      {{ author.name }}
-    </h3>
+      {% else %}
 
-    {% if author.pronouns %}
-      <p class="author__pronouns">
-        {{ author.pronouns }}
-      </p>
-    {% endif %}
+        <img
+          src="{{ author.avatar | prepend: '/images/' | prepend: base_path }}"
+          class="author__avatar"
+          alt="{{ author.name }}"
+          fetchpriority="high" />
+
+      {% endif %}
+
+    </div>
 
 
-    <!-- Professional Roles -->
+    <!-- =================================== -->
+    <!-- NAME AND PROFESSIONAL BIOGRAPHY -->
+    <!-- =================================== -->
 
-    {% if author.bio %}
-      <p class="author__bio"
-         style="line-height: 1.5;
-                margin-top: 10px;
-                margin-bottom: 10px;">
-        {{ author.bio | escape }}
-      </p>
-    {% endif %}
+    <div class="author__content">
+
+      <h3 class="author__name">
+        {{ author.name }}
+      </h3>
+
+      {% if author.pronouns %}
+        <p class="author__pronouns">
+          {{ author.pronouns }}
+        </p>
+      {% endif %}
 
 
-    <!-- Research Interests -->
+      <!-- Professional Roles -->
 
-    {% if author.research_interests %}
-
-      <div style="margin-top: 10px;
-                  margin-bottom: 10px;">
+      {% if author.bio %}
 
         <p class="author__bio"
-           style="font-weight: 700;
-                  margin-bottom: 7px;">
-          Research Interests
+           style="margin-top: 8px;
+                  margin-bottom: 10px;
+                  line-height: 1.4;">
+
+          {{ author.bio | escape }}
+
         </p>
 
-        <p class="author__bio"
-           style="line-height: 1.5;
-                  margin-top: 0;
-                  margin-bottom: 0;">
-          {{ author.research_interests | escape }}
-        </p>
-
-      </div>
-
-    {% endif %}
-
-  </div>
+      {% endif %}
 
 
-  <!-- ====================================== -->
-  <!-- CONTACT INFORMATION AND ACADEMIC LINKS -->
-  <!-- ====================================== -->
+      <!-- Research Interests -->
 
-  <div class="author__urls-wrapper">
+      {% if author.research_interests %}
 
-    <button class="btn btn--inverse"
-            type="button">
-      Follow
-    </button>
+        <div style="margin-top: 12px;
+                    margin-bottom: 12px;">
 
-    <ul class="author__urls social-icons">
+          <p class="author__bio"
+             style="font-weight: 700;
+                    margin-top: 0;
+                    margin-bottom: 5px;">
+            Research Interests
+          </p>
+
+          <p class="author__bio"
+             style="margin-top: 0;
+                    margin-bottom: 0;
+                    line-height: 1.4;">
+
+            {{ author.research_interests | escape }}
+
+          </p>
+
+        </div>
+
+      {% endif %}
+
+    </div>
 
 
-      <!-- ================================== -->
-      <!-- ACADEMIC EMAIL -->
-      <!-- ================================== -->
+    <!-- =================================== -->
+    <!-- CONTACT INFORMATION -->
+    <!-- =================================== -->
 
-      {% if author.academic_email %}
+    <div class="author__urls-wrapper">
 
-        <li style="margin-top: 8px;
-                   margin-bottom: 14px;">
+      <button class="btn btn--inverse"
+              type="button">
+        Follow
+      </button>
 
-          <strong style="font-size: 0.9em;">
+      <ul class="author__urls social-icons profile-links">
 
-            <i class="fas fa-fw fa-envelope"
-               aria-hidden="true"></i>
 
-            Academic Email
+        <!-- Academic Email -->
 
-          </strong>
+        {% if author.academic_email %}
 
-          <div style="margin-top: 5px;
-                      font-size: 0.85em;
-                      line-height: 1.5;
-                      overflow-wrap: anywhere;
-                      word-break: break-word;">
+          <li style="margin-bottom: 5px;">
 
-            <a href="mailto:{{ author.academic_email }}"
-               style="white-space: normal;">
+            <strong style="font-size: 0.9em;">
 
+              <i class="fas fa-fw fa-envelope"
+                 aria-hidden="true"></i>
+
+              Academic Email
+
+            </strong>
+
+            <a class="contact-email"
+               href="mailto:{{ author.academic_email }}">
               {{ author.academic_email }}
-
             </a>
 
-          </div>
+          </li>
 
-        </li>
-
-      {% endif %}
+        {% endif %}
 
 
-      <!-- ================================== -->
-      <!-- PERSONAL EMAIL -->
-      <!-- ================================== -->
+        <!-- Personal Email -->
 
-      {% if author.email %}
+        {% if author.email %}
 
-        <li style="margin-bottom: 16px;">
+          <li style="margin-bottom: 5px;">
 
-          <strong style="font-size: 0.9em;">
+            <strong style="font-size: 0.9em;">
 
-            <i class="fas fa-fw fa-envelope"
-               aria-hidden="true"></i>
+              <i class="fas fa-fw fa-envelope"
+                 aria-hidden="true"></i>
 
-            Personal Email
+              Personal Email
 
-          </strong>
+            </strong>
 
-          <div style="margin-top: 5px;
-                      font-size: 0.85em;
-                      line-height: 1.5;
-                      overflow-wrap: anywhere;
-                      word-break: break-word;">
-
-            <a href="mailto:{{ author.email }}"
-               style="white-space: normal;">
-
+            <a class="contact-email"
+               href="mailto:{{ author.email }}">
               {{ author.email }}
-
             </a>
 
-          </div>
+          </li>
 
-        </li>
-
-      {% endif %}
+        {% endif %}
 
 
-      <!-- ================================== -->
-      <!-- ORCID -->
-      <!-- ================================== -->
+        <!-- =================================== -->
+        <!-- ACADEMIC AND PROFESSIONAL LINKS -->
+        <!-- =================================== -->
 
-      {% if author.orcid %}
+        <!-- ORCID -->
 
-        <li>
-          <a href="{{ author.orcid }}"
-             target="_blank"
-             rel="noopener noreferrer">
+        {% if author.orcid %}
 
-            <i class="ai ai-orcid ai-fw icon-pad-right"
+          <li>
+            <a href="{{ author.orcid }}"
+               target="_blank"
+               rel="noopener noreferrer">
+
+              <i class="ai ai-orcid ai-fw icon-pad-right"
+                 aria-hidden="true"></i>
+
+              ORCID
+
+            </a>
+          </li>
+
+        {% endif %}
+
+
+        <!-- GitHub -->
+
+        {% if author.github %}
+
+          <li>
+            <a href="https://github.com/{{ author.github }}"
+               target="_blank"
+               rel="noopener noreferrer">
+
+              <i class="fab fa-fw fa-github icon-pad-right"
+                 aria-hidden="true"></i>
+
+              GitHub
+
+            </a>
+          </li>
+
+        {% endif %}
+
+
+        <!-- LinkedIn -->
+
+        {% if author.linkedin %}
+
+          <li>
+            <a href="https://www.linkedin.com/in/{{ author.linkedin }}"
+               target="_blank"
+               rel="noopener noreferrer">
+
+              <i class="fab fa-fw fa-linkedin icon-pad-right"
+                 aria-hidden="true"></i>
+
+              LinkedIn
+
+            </a>
+          </li>
+
+        {% endif %}
+
+
+        <!-- =================================== -->
+        <!-- LOCATION AND UNIVERSITIES -->
+        <!-- =================================== -->
+
+        <!-- Greater Boston -->
+
+        {% if author.location %}
+
+          <li class="author__desktop"
+              style="margin-top: 8px;">
+
+            <i class="fas fa-fw fa-location-dot icon-pad-right"
                aria-hidden="true"></i>
 
-            ORCID
+            {{ author.location }}
 
-          </a>
-        </li>
+          </li>
 
-      {% endif %}
+        {% endif %}
 
 
-      <!-- ================================== -->
-      <!-- GITHUB -->
-      <!-- ================================== -->
+        <!-- Tufts University -->
 
-      {% if author.github %}
+        {% if author.employer %}
 
-        <li>
-          <a href="https://github.com/{{ author.github }}"
-             target="_blank"
-             rel="noopener noreferrer">
+          <li class="author__desktop">
 
-            <i class="fab fa-fw fa-github icon-pad-right"
+            <i class="fas fa-fw fa-building-columns icon-pad-right"
                aria-hidden="true"></i>
 
-            GitHub
+            {{ author.employer }}
 
-          </a>
-        </li>
+          </li>
 
-      {% endif %}
-
-
-      <!-- ================================== -->
-      <!-- LINKEDIN -->
-      <!-- ================================== -->
-
-      {% if author.linkedin %}
-
-        <li>
-          <a href="https://www.linkedin.com/in/{{ author.linkedin }}"
-             target="_blank"
-             rel="noopener noreferrer">
-
-            <i class="fab fa-fw fa-linkedin icon-pad-right"
-               aria-hidden="true"></i>
-
-            LinkedIn
-
-          </a>
-        </li>
-
-      {% endif %}
+        {% endif %}
 
 
-      <!-- ================================== -->
-      <!-- LOCATION AND UNIVERSITY AFFILIATIONS -->
-      <!-- ================================== -->
-
-      <!-- Location -->
-
-      {% if author.location %}
-
-        <li class="author__desktop"
-            style="margin-top: 18px;">
-
-          <i class="fas fa-fw fa-location-dot icon-pad-right"
-             aria-hidden="true"></i>
-
-          {{ author.location }}
-
-        </li>
-
-      {% endif %}
-
-
-      <!-- Current University: Tufts -->
-
-      {% if author.employer %}
+        <!-- University of Minnesota Twin Cities -->
 
         <li class="author__desktop">
 
-          <i class="fas fa-fw fa-building-columns icon-pad-right"
+          <i class="fas fa-fw fa-graduation-cap icon-pad-right"
              aria-hidden="true"></i>
 
-          {{ author.employer }}
+          University of Minnesota Twin Cities
 
         </li>
 
-      {% endif %}
+      </ul>
 
-
-      <!-- Undergraduate University: UMN -->
-
-      <li class="author__desktop">
-
-        <i class="fas fa-fw fa-graduation-cap icon-pad-right"
-           aria-hidden="true"></i>
-
-        University of Minnesota Twin Cities
-
-      </li>
-
-
-    </ul>
+    </div>
 
   </div>
 
