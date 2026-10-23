@@ -1,3 +1,4 @@
+
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
@@ -22,7 +23,7 @@
     {% endif %}
   </div>
 
-  <!-- Name, Pronouns, Emails, and Bio -->
+  <!-- Name, Pronouns, and Academic Bio -->
   <div class="author__content">
 
     <h3 class="author__name">{{ author.name }}</h3>
@@ -33,37 +34,6 @@
       </p>
     {% endif %}
 
-    <!-- Academic Email Below Name -->
-    {% if author.academic_email %}
-      <p style="font-size: 0.8em;
-                margin: 10px 0 5px;
-                line-height: 1.5;
-                overflow-wrap: anywhere;">
-        <i class="fas fa-envelope"
-           aria-hidden="true"></i>
-        <strong>Academic:</strong>
-        <a href="mailto:{{ author.academic_email }}">
-          {{ author.academic_email }}
-        </a>
-      </p>
-    {% endif %}
-
-    <!-- Personal Email Below Name -->
-    {% if author.email %}
-      <p style="font-size: 0.8em;
-                margin: 5px 0 12px;
-                line-height: 1.5;
-                overflow-wrap: anywhere;">
-        <i class="fas fa-envelope"
-           aria-hidden="true"></i>
-        <strong>Personal:</strong>
-        <a href="mailto:{{ author.email }}">
-          {{ author.email }}
-        </a>
-      </p>
-    {% endif %}
-
-    <!-- Short Academic Biography -->
     {% if author.bio %}
       <p class="author__bio">
         {{ author.bio }}
@@ -72,7 +42,7 @@
 
   </div>
 
-  <!-- Location, University, and Academic Links -->
+  <!-- Contact Information and Academic Links -->
   <div class="author__urls-wrapper">
 
     <button class="btn btn--inverse">
@@ -99,6 +69,33 @@
         </li>
       {% endif %}
 
+      <!-- Academic Email -->
+      {% if author.academic_email %}
+        <li style="margin-top: 14px;
+                   margin-bottom: 7px;
+                   overflow-wrap: anywhere;">
+          <a href="mailto:{{ author.academic_email }}">
+            <i class="fas fa-fw fa-envelope icon-pad-right"
+               aria-hidden="true"></i>
+            <strong>Academic:</strong>
+            {{ author.academic_email }}
+          </a>
+        </li>
+      {% endif %}
+
+      <!-- Personal Email -->
+      {% if author.email %}
+        <li style="margin-bottom: 14px;
+                   overflow-wrap: anywhere;">
+          <a href="mailto:{{ author.email }}">
+            <i class="fas fa-fw fa-envelope icon-pad-right"
+               aria-hidden="true"></i>
+            <strong>Personal:</strong>
+            {{ author.email }}
+          </a>
+        </li>
+      {% endif %}
+
       <!-- Website -->
       {% if author.uri %}
         <li>
@@ -110,7 +107,7 @@
         </li>
       {% endif %}
 
-      <!-- Academia -->
+      <!-- Academia.edu -->
       {% if author.academia %}
         <li>
           <a href="{{ author.academia }}">
@@ -258,4 +255,5 @@
     </ul>
 
   </div>
+
 </div>
