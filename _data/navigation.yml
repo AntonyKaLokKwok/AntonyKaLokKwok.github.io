@@ -1,19 +1,15 @@
-
 main:
   - title: "Home"
     url: /
-
   - title: "Research"
     url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Presentations"
-    url: /talks/
-
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Academic Life"
+    url: /academic-life/
+  - title: "Personal Life"
+    url: /personal-life/
   - title: "My Journey"
     url: /my-journey/
-
   - title: "CV"
     url: /cv/
