@@ -11,11 +11,11 @@ redirect_from:
 
 I am **Ka Lok (Antony) Kwok**, born and raised in Hong Kong and currently pursuing a Master of Science (M.S.) in Environmental Policy and Planning at Tufts University. I previously earned an M.S. in Economics from Tufts University, as well as a B.S. in Economics, a B.A. in Mathematics, and a minor in Statistics from the University of Minnesota Twin Cities.
 
-My research interests lie at the intersection of **urban economics, housing policy, transportation accessibility, spatial inequality, urban informatics, and applied and spatial econometrics**. My broader academic interests encompass health policy, economics of education, labor economics, gender and income inequality, and food and social policy.
+My research interests lie at the intersection of **urban economics, housing policy, transportation accessibility, spatial inequality, urban informatics, and applied and spatial econometrics**. My broader academic interests encompass health policy, economics of education, labor economics, gender inequality, income inequality, and food and social policy.
 
-I am particularly interested in understanding how **affordable housing policies, urban development, and transportation systems shape neighborhood conditions, spatial disparities, and access to socioeconomic opportunities**. My research focuses on the relationships between affordable housing, neighborhood health, transportation equity, and the distribution of resources across communities. I am especially interested in evaluating how place-based policies affect disadvantaged populations, whether their benefits differ across socioeconomic and geographic contexts, and how their effects extend to surrounding neighborhoods through spatial spillovers.
+I am particularly interested in understanding how **affordable housing policies, urban development, and transportation systems shape neighborhood outcomes, spatial disparities, and access to socioeconomic opportunities**. My research explores how place-based policies affect housing accessibility, neighborhood health, transportation equity, and socioeconomic well-being, particularly among disadvantaged communities. I am also interested in examining how policy effects vary across socioeconomic and geographic contexts, including potential spatial spillovers into surrounding neighborhoods.
 
-Drawing on my interdisciplinary training in economics, mathematics, statistics, and urban planning, I apply **econometric methods, geographic information systems (GIS), spatial econometrics, causal inference, and large-scale urban data analysis** to study these questions. Through my research, I aim to contribute empirical evidence that informs more equitable and effective housing, transportation, health, and urban development policies.
+Drawing on my interdisciplinary training in economics, mathematics, statistics, and urban planning, I integrate **econometric methods, geographic information systems (GIS), spatial analysis, causal inference, and large-scale urban data** to investigate these questions. My goal is to contribute empirical evidence that informs more equitable and effective urban and social policies.
 
 ---
 
@@ -26,7 +26,7 @@ Drawing on my interdisciplinary training in economics, mathematics, statistics, 
 - **Urban Economics and Housing Policy**
 - **Affordable Housing, Neighborhood Effects, and Spatial Spillovers**
 - **Transportation Accessibility, Mobility, and Spatial Inequality**
-- **Urban Informatics, Digital Inequality, and Geographic Information Systems (GIS)**
+- **Urban Informatics, Digital Inequality, and GIS**
 - **Applied Econometrics, Spatial Econometrics, and Causal Inference**
 
 ### Additional Research Interests
@@ -42,19 +42,23 @@ Drawing on my interdisciplinary training in economics, mathematics, statistics, 
 
 ---
 
-## Beyond Academia: From Athletics to Research
+## Beyond Academia: My Journey from Athletics to Research
 
-Before entering academia, I dedicated much of my childhood and adolescence to competitive athletics in Hong Kong. I began playing tennis at a young age and was selected for training by coaches during primary school. Despite my dedication to the sport, limited financial support eventually made it difficult for me to continue pursuing tennis competitively.
+Long before I began studying economics and urban planning, sports played a central role in my life. Growing up in Hong Kong, I started playing tennis as a child and was selected for training by coaches during primary school. For many years, competitive athletics was an important part of my identity, shaping my discipline, ambitions, and understanding of success.
 
-I subsequently transitioned to karate, where I achieved success in domestic competitions and eventually had the opportunity to **represent Hong Kong in international competitions as a member of its karate national team**.
+However, my athletic journey did not unfold as I had originally imagined. Financial constraints eventually made it difficult for me to continue pursuing tennis competitively. I had to reconsider a path to which I had dedicated much of my childhood.
 
-My transition from competitive athletics to higher education and academic research was neither straightforward nor easy. It involved significant challenges, difficult decisions, and a gradual redefinition of my goals and aspirations.
+Rather than leaving competitive sports altogether, I transitioned to karate. After achieving success in domestic competitions, I eventually earned the opportunity to **represent Hong Kong internationally as a member of its karate national team**. Competing at that level was a meaningful achievement, but it was also one chapter in a much longer journey of change, uncertainty, and personal growth.
 
-As a first-generation university student, these experiences have shaped my resilience, perspective, and understanding of how access to resources and opportunities can influence individual life trajectories. They have also contributed to my broader interest in inequality, public policy, and the institutional factors that shape access to opportunity.
+My eventual transition from competitive athletics to higher education and academic research was far from straightforward. Moving between disciplines, adapting to new environments, and redefining my long-term aspirations required me to confront challenges for which I had not always been prepared. The process involved setbacks and difficult decisions, but also experiences that fundamentally changed how I understood myself and the opportunities available to me.
 
-My personal journey extends beyond academia, and I hope to share the experiences, challenges, and turning points that have influenced who I am today.
+As a **first-generation university student**, I have become increasingly aware of how financial resources, institutional support, and unequal access to opportunity can influence the directions our lives take. My personal experiences do not replace empirical research, but they have helped shape the questions I care about and my interest in understanding the socioeconomic and spatial inequalities that affect people's lives.
 
-<a href="/my-journey/" class="btn btn--primary">Read My Journey &rarr;</a>
+Although my current work focuses on quantitative research, econometrics, and GIS, I believe that understanding the human experiences behind the data is equally important. My academic journey has been shaped not only by the methods I have learned but also by the people I have met, the setbacks I have experienced, and the opportunities that have allowed me to move forward.
+
+There is much more to my story than my degrees and research projects. I hope that sharing my journey offers a more personal perspective on who I am, how I arrived here, and what continues to motivate me.
+
+<a href="/my-journey/" class="btn btn--primary">Read My Full Journey &rarr;</a>
 
 ---
 
