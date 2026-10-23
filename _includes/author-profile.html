@@ -69,32 +69,53 @@
         </li>
       {% endif %}
 
-      <!-- Academic Email -->
-      {% if author.academic_email %}
-        <li style="margin-top: 14px;
-                   margin-bottom: 7px;
-                   overflow-wrap: anywhere;">
-          <a href="mailto:{{ author.academic_email }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right"
-               aria-hidden="true"></i>
-            <strong>Academic:</strong>
-            {{ author.academic_email }}
-          </a>
-        </li>
-      {% endif %}
 
-      <!-- Personal Email -->
-      {% if author.email %}
-        <li style="margin-bottom: 14px;
-                   overflow-wrap: anywhere;">
-          <a href="mailto:{{ author.email }}">
-            <i class="fas fa-fw fa-envelope icon-pad-right"
-               aria-hidden="true"></i>
-            <strong>Personal:</strong>
-            {{ author.email }}
-          </a>
-        </li>
-      {% endif %}
+<!-- Academic Email -->
+{% if author.academic_email %}
+  <li style="margin-top: 15px; margin-bottom: 12px;">
+    <div style="font-size: 0.9em; line-height: 1.6;">
+      <strong>
+        <i class="fas fa-fw fa-envelope"
+           aria-hidden="true"></i>
+        Academic Email
+      </strong>
+
+      <div style="margin-top: 3px;
+                  padding-left: 0;
+                  overflow-wrap: anywhere;
+                  word-break: break-word;">
+        <a href="mailto:{{ author.academic_email }}"
+           style="white-space: normal;">
+          {{ author.academic_email }}
+        </a>
+      </div>
+    </div>
+  </li>
+{% endif %}
+
+<!-- Personal Email -->
+{% if author.email %}
+  <li style="margin-bottom: 15px;">
+    <div style="font-size: 0.9em; line-height: 1.6;">
+      <strong>
+        <i class="fas fa-fw fa-envelope"
+           aria-hidden="true"></i>
+        Personal Email
+      </strong>
+
+      <div style="margin-top: 3px;
+                  padding-left: 0;
+                  overflow-wrap: anywhere;
+                  word-break: break-word;">
+        <a href="mailto:{{ author.email }}"
+           style="white-space: normal;">
+          {{ author.email }}
+        </a>
+      </div>
+    </div>
+  </li>
+{% endif %}
+
 
       <!-- Website -->
       {% if author.uri %}
