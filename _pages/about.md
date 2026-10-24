@@ -17,17 +17,16 @@ With my interdisciplinary training in economics, mathematics, statistics, and ur
 
 <figure style="text-align: center; margin: 28px 0;">
   <img
-    src="/images/athletics/karate-international-korea.jpg"
-    alt="Antony representing Hong Kong at an international karate competition in South Korea"
+    src="{{ '/images/athletics/karate 1.jpg' | relative_url }}"
+    alt="Antony representing Hong Kong at an international karate competition"
     loading="lazy"
-    style="width: auto; max-width: 100%; max-height: 340px; height: auto; border-radius: 8px;"
+    style="display: block; width: auto; max-width: 100%; max-height: 360px; height: auto; margin: 0 auto; border-radius: 8px;"
   >
-<figcaption style="font-size: 0.85em; margin-top: 10px; text-align: center;">
-  Representing Hong Kong at the 9th Korea Karate Invitational Tournament,
-  where I won bronze medals in individual and team kumite.
-  Pictured with a Russian team coach.
-</figcaption>
-
+  <figcaption style="font-size: 0.85em; margin-top: 10px;">
+    Representing Hong Kong at the 9th Korea Karate Invitational Tournament,
+    where I earned bronze medals in individual and team kumite.
+    Pictured with a Russian team coach.
+  </figcaption>
 </figure>
 
 Beyond academia, my journey has been shaped by an unconventional transition from junior national team athletics to academic research. **At the age of 6, I was selected to join Hong Kong's junior national tennis team, where I trained until I could no longer receive full sponsorship.** I then switched to karate at the age of 14, where I eventually **represented Hong Kong internationally as a member of its national team**. However, serious injuries to my right ankle and shoulder ended my athletic career during my high school examination years, just as I'd planned to continue as a full-time national team athlete.
