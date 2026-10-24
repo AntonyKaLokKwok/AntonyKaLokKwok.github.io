@@ -15,6 +15,21 @@ At Tufts, I've been involved in collaborative and independent research across ur
 
 With my interdisciplinary training in economics, mathematics, statistics, and urban planning, I use **applied and spatial econometrics, causal inference, geographic information systems (GIS), spatial analysis, and large-scale urban data** to investigate these questions. Much of my research is still in progress, and I hope to develop these projects into publishable work that informs more equitable and effective urban and social policies.
 
+<figure style="text-align: center; margin: 28px 0;">
+  <img
+    src="/images/athletics/karate-international-korea.jpg"
+    alt="Antony representing Hong Kong at an international karate competition in South Korea"
+    loading="lazy"
+    style="width: auto; max-width: 100%; max-height: 340px; height: auto; border-radius: 8px;"
+  >
+<figcaption style="font-size: 0.85em; margin-top: 10px; text-align: center;">
+  Representing Hong Kong at the 9th Korea Karate Invitational Tournament,
+  where I won bronze medals in individual and team kumite.
+  Pictured with a Russian team coach.
+</figcaption>
+
+</figure>
+
 Beyond academia, my journey has been shaped by an unconventional transition from junior national team athletics to academic research. **At the age of 6, I was selected to join Hong Kong's junior national tennis team, where I trained until I could no longer receive full sponsorship.** I then switched to karate at the age of 14, where I eventually **represented Hong Kong internationally as a member of its national team**. However, serious injuries to my right ankle and shoulder ended my athletic career during my high school examination years, just as I'd planned to continue as a full-time national team athlete.
 
 After losing the sporting career I'd worked toward, I took physically demanding jobs at DHL and FedEx cargo facilities at Hong Kong International Airport. At that point, I'd lost hope and had little idea of what my future would look like. Eventually, encouragement from senior coworkers motivated me to return to education and rebuild my life through studying.
@@ -24,8 +39,6 @@ If you'd like to know more about my athletic background and the experiences that
 As a first-generation university student born and raised in Hong Kong to parents who immigrated from Fujian, I've come to understand how access to resources and opportunities can change a person's life. My journey has strengthened my determination to pursue higher education and become an educator who can give others hope and motivation. Having experienced challenges and setbacks along my own educational journey, I hope to help students overcome similar barriers and pursue opportunities they might otherwise believe are out of reach.
 
 You can also [learn more about my teaching and tutoring experience here](/teaching/).
-
-<a href="/my-journey/" class="btn btn--primary">Read My Journey &rarr;</a>
 
 ---
 
