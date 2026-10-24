@@ -7,22 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am **Ka Lok (Antony) Kwok**, born and raised in Hong Kong, and currently pursuing an M.S. in Environmental Policy and Planning at Tufts University. I previously earned an M.S. in Economics from Tufts University, as well as a B.S. in Economics, a B.A. in Mathematics, and a minor in Statistics from the University of Minnesota Twin Cities.
+I'm **Ka Lok (Antony) Kwok**, born and raised in Hong Kong, and currently pursuing an M.S. in Environmental Policy and Planning at Tufts University. I previously earned an M.S. in Economics from Tufts University, along with a B.S. in Economics, a B.A. in Mathematics, and a minor in Statistics from the University of Minnesota Twin Cities.
 
-My research interests lie at the intersection of **urban economics, housing policy, transportation accessibility, spatial inequality, urban informatics, and applied and spatial econometrics**. My broader interests also encompass health policy, economics of education, labor economics, gender inequality, income inequality, and food and social policy.
+My research interests are **urban economics, housing policy, transportation accessibility, spatial inequality, urban informatics, health policy, economics of education, labor economics, socioeconomic inequality, food policy, and environmental justice**. I'm particularly interested in how **housing policies, urban development, and transportation systems shape neighborhood conditions, socioeconomic opportunities, and spatial disparities**, especially in historically disadvantaged communities.
 
-I am particularly interested in understanding how **affordable housing policies, urban development, and transportation systems shape neighborhood outcomes, spatial disparities, and access to opportunity**. My research examines the relationships between place-based policies, affordable housing, neighborhood health, transportation equity, and socioeconomic well-being, particularly among historically disadvantaged communities. I am also interested in how these effects vary across socioeconomic and geographic contexts, including potential spatial spillovers into surrounding neighborhoods.
+At Tufts, I've been involved in collaborative and independent research across urban economics, housing policy, transportation accessibility, spatial inequality, and urban informatics. I've worked with **Professor Shomon Shamsuddin** on affordable housing, neighborhood outcomes, and Medicaid expansion, and with **Professor Justin Hollander** on digital urban inequality using large-scale Wikipedia data. I've also developed independent projects on affordable housing, transportation accessibility, urban heat, and spatial inequality, with guidance and support from **Professors Shan Jiang, Sumeeta Srinivasan, and Peilei Fan**. These experiences have contributed to working papers, conference presentations, and ongoing research.
 
-Drawing on my interdisciplinary background in economics, mathematics, statistics, and urban planning, I integrate **econometric methods, geographic information systems (GIS), spatial analysis, causal inference, and large-scale urban data** to investigate these questions. My goal is to generate rigorous empirical evidence that can inform more equitable and effective urban and social policies.
+With my interdisciplinary training in economics, mathematics, statistics, and urban planning, I use **applied and spatial econometrics, causal inference, geographic information systems (GIS), spatial analysis, and large-scale urban data** to investigate these questions. Much of my research is still in progress, and I hope to develop these projects into publishable work that informs more equitable and effective urban and social policies.
 
-Beyond academia, my journey has been shaped by an unconventional transition from competitive athletics to academic research. Growing up in Hong Kong, I began playing tennis during childhood and was selected for training by coaches in primary school. When financial constraints made it difficult to continue pursuing tennis competitively, I transitioned to karate. After achieving success in domestic competitions, I went on to represent **Hong Kong internationally as a member of its karate national team**.
+Beyond academia, my journey has been shaped by an unconventional transition from junior national team athletics to academic research. Growing up in Hong Kong, I trained as a member of Hong Kong's junior national tennis team until I could no longer receive full sponsorship. I then switched to karate, where I eventually **represented Hong Kong internationally as a member of its national team**. However, serious injuries to my right ankle and shoulder ended my athletic career during my high school examination years, just as I'd planned to continue as a full-time national team athlete.
 
-My transition from competitive athletics to higher education was far from straightforward. As a first-generation university student, I encountered challenges, setbacks, and difficult decisions that gradually reshaped my aspirations. These experiences strengthened my resilience and determination while deepening my understanding of how access to resources, institutional support, and socioeconomic opportunities can influence individual life trajectories.
+After losing the sporting career I'd worked toward, I took physically demanding jobs at DHL and FedEx cargo facilities at Hong Kong International Airport. At that point, I'd lost hope and had little idea of what my future would look like. Eventually, encouragement from senior coworkers motivated me to return to education and rebuild my life through studying.
+
+If you'd like to know more about my athletic background and the experiences that shaped my journey, you can [read My Journey here](/my-journey/).
+
+As a first-generation university student born and raised in Hong Kong to parents who immigrated from Fujian, I've come to understand how access to resources and opportunities can change a person's life. My journey has strengthened my determination to pursue higher education and become an educator who can give others hope and motivation. Having experienced challenges and setbacks along my own educational journey, I hope to help students overcome similar barriers and pursue opportunities they might otherwise believe are out of reach.
+
+You can also [learn more about my teaching and tutoring experience here](/teaching/).
 
 <a href="/my-journey/" class="btn btn--primary">Read My Journey &rarr;</a>
 
 ---
-
 
 ## Research Interests
 
