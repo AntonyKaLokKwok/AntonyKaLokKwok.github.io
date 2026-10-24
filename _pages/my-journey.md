@@ -12,40 +12,12 @@ Won a <strong>gold trophy in individual men's kumite</strong> and a <strong>bron
 </figcaption>
 </figure>
 
-This page tells the longer personal story behind my educational and research journey, including the experiences, challenges, and turning points that shaped who I am today.
-
-## Growing Up in Hong Kong
-
-My early experiences and the perspectives I carry with me.
-
-## From Junior National Tennis to Karate
-
-Being selected for Hong Kong's junior national tennis team at the age of six, transitioning to karate at fourteen, and eventually representing Hong Kong internationally.
-
-## Injuries and a Turning Point
-
-The injuries that ended my competitive athletic career and disrupted my university entrance examination preparation.
-
-## Working at Hong Kong International Airport
-
-My experience working at DHL and FedEx cargo facilities and the encouragement from senior coworkers that motivated me to return to education.
-
-## From Hong Kong to the United States
-
-Moving to a new place and building an academic path.
-
-## My Undergraduate Journey
-
-Studying economics, mathematics, and statistics at the University of Minnesota Twin Cities.
-
-## Graduate Study at Tufts
-
-Exploring economics, environmental policy, planning, and spatial approaches to urban research.
-
-## Becoming a Researcher and Educator
-
-Learning through research collaborations, teaching, and interdisciplinary experiences.
-
-## Why I Study Cities
-
-How my experiences connect to questions about housing, accessibility, and inequality.
+My parents immigrated from a village in Fujian to Hong Kong, where I was born and raised in Tuen Mun, a rural part of Hong Kong. Like many immigrant families, we lived in a tiny room with no windows, shared by my parents, my sister, and me as a baby. My dad became a construction worker, while my mom worked at a Motorola manufacturing factory. Both worked nearly all day, every day. Whenever I went to sleep or woke up, I often couldn't see them because they were working. I had to ride my bicycle to primary school and learn to take care of myself. But at least I had a happy childhood, and I always followed my sister around to play at the playground.
+One of my most memorable moments was when my sister and I made a wooden toy boat and floated it from the beginning of a river all the way to the end. Afterward, I was so excited to tell our parents that we'd done it. Then, of course, I got beaten because my mom was worried that if we'd had an accident, she'd have lived with guilt forever. Because of that experience, I promised myself that I wouldn't put my sister or anyone else in danger again. I also had a good childhood buddy whose family lived in the garbage room of the same building because his parents were janitors. Sometimes, I joined his family for dinner when my parents weren't home yet. My friendship with him, along with my own personal experiences, motivated me to conduct research on affordable housing policy.
+Along with my happy childhood without electronics, computers, or video games, I was very obsessed with sports. My parents initially signed me up for tennis, karate, table tennis, squash, and swimming at the age of six to make sure my schedule was packed and that someone from these sports activities could walk me home safely. But because of this decision, a national tennis team coach, Mr. Shea, noticed my abilities and selected me to join Hong Kong's junior national tennis team. I received full sponsorship, including equipment, free access to tennis courts in Hong Kong, and daily training sessions with the national team. I still remember that he selected me because I could interpret my opponents' body and racket movements to predict where the ball would land. I also had very fast reflexes, good body control, and speed. Because of these abilities, he spoke with my mom and offered me the opportunity to join the national team for free.
+While I was doing very well in different sports, I attended P.L.K. Leung Chow Shun Kam Primary School, a government-funded school that ranked around the middle. I wasn't particularly strong academically in some subjects. I was only good at mathematics and General Studies, so I was selected to join the school's Mathematics Olympiad team for free from the ages of six to eight, but I had a difficult time performing well in all other subjects. Later in adulthood, I discovered that I'd had exam anxiety since childhood. No matter how much time I spent studying, the results often turned out to be the opposite of what I'd expected. I didn't play video games, so my everyday life consisted of sports, studying, and sleeping.
+However, because I wasn't in the elite class, there weren't any teachers who wanted to help those of us in regular classes develop the right mindset for studying and taking exams. As a result, I was always an average student. But I didn't blame anyone. Instead, I gradually shifted more of my energy toward sports and spent less time studying, trying to achieve the best possible results in sports while spending the least amount of time studying so that I could get into my dream secondary school, which my senior fellow student in karate attended.
+After primary school, I entered my dream school, NLSI Peace Evangelical Secondary School, which ranked around the middle, where I later developed my Christian faith. Once again, the learning environment wasn't particularly good, partly because of the geographic locations of both my primary and secondary schools. From my observation, people living in Tuen Mun rarely had much hope for the future. We were taught to finish the free education provided during primary and secondary school and then simply find any job to work for the rest of our lives.
+There were only a few rare exceptions among the approximately 250 students in my year. A few students from the elite class were able to enter university directly that year, although this wasn't guaranteed every year. Since I wasn't in an elite class, our teachers didn't bother to spend much time teaching us the subjects particularly well. For all six years of secondary school, our teachers largely used the same materials for different subjects to make sure we could at least pass the university entrance examinations.
+However, in my fourth year of secondary school, I chose Economics and Combined Science (Biology and Chemistry) as my electives. I became obsessed with the philosophical mindset of economics, especially when I learned about Adam Smith. I also greatly admired the famous economist Professor Steven N. S. Cheung, who also came from a poor family. I wished that I could become someone like him one day, so I tried my best to study economics. During my first year studying the subject, I managed to rank first in my class. That's when I developed a neoclassical economics perspective, which I still hold today. However, I later had to devote more energy to national team training.
+Just as I was reaching the peak of my athletic career and planning to become a full-time national team karate athlete, I tore all three ligaments in my right ankle and several ligaments in my right shoulder.
