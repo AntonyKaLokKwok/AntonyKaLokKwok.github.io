@@ -15,19 +15,45 @@ At Tufts, I've been involved in collaborative and independent research across ur
 
 With my interdisciplinary training in economics, mathematics, statistics, and urban planning, I use **applied and spatial econometrics, causal inference, geographic information systems (GIS), spatial analysis, and large-scale urban data** to investigate these questions. Much of my research is still in progress, and I hope to develop these projects into publishable work that informs more equitable and effective urban and social policies.
 
-<figure style="text-align: center; margin: 28px 0;">
-  <img
-    src="/images/athletics/karate%201.jpg"
-    alt="Antony representing Hong Kong at an international karate competition"
-    style="display: block; max-width: 100%; max-height: 360px; width: auto; height: auto; margin: 0 auto; border-radius: 8px;"
-  >
-<figcaption style="font-size: 0.85em; margin-top: 10px;">
-  Representing Hong Kong at the 9th Korea Open International Karate-do Championship,
-  where I earned two bronze medals: one in individual men's kumite (ages 16–17)
-  and another in men's team kumite with the Hong Kong national team.
-  Pictured with a Russian team coach.
-</figcaption>
+
+<figure style="margin: 28px 0; text-align: center;">
+
+  <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; align-items: center;">
+
+    <img
+      src="/images/athletics/karate%201.jpg"
+      alt="Antony with a Russian team coach at an international karate tournament"
+      style="width: 100%; height: auto; max-height: 300px; object-fit: contain; border-radius: 8px;"
+    >
+
+    <img
+      src="/images/athletics/karate%202.jpg"
+      alt="Antony with a competition judge at an international karate tournament"
+      style="width: 100%; height: auto; max-height: 300px; object-fit: contain; border-radius: 8px;"
+    >
+
+    <img
+      src="/images/athletics/karate%203.jpg"
+      alt="Hong Kong karate team at the international competition"
+      style="width: 100%; height: auto; max-height: 300px; object-fit: contain; border-radius: 8px;"
+    >
+
+    <img
+      src="/images/athletics/karate%204.jpg"
+      alt="Hong Kong karate national team members"
+      style="width: 100%; height: auto; max-height: 300px; object-fit: contain; border-radius: 8px;"
+    >
+
+  </div>
+
+  <figcaption style="font-size: 0.85em; margin-top: 12px;">
+    Representing Hong Kong at the 9th Korea Open International Karate-do Championship,
+    where I earned two bronze medals: one in individual men's kumite (ages 16–17)
+    and another in men's team kumite with the Hong Kong national team.
+  </figcaption>
+
 </figure>
+
 
 Beyond academia, my journey has been shaped by an unconventional transition from junior national team athletics to academic research. **At the age of 6, I was selected to join Hong Kong's junior national tennis team, where I trained and competed in various tournaments until I could no longer receive full sponsorship.** I then switched to karate at the age of 14, eventually **representing Hong Kong internationally as a member of its national team**. However, I tore all three ligaments in my right ankle and several ligaments in my right shoulder during the annual Hong Kong Secondary Schools Handball Competition. These injuries ended my athletic career just as I was beginning to reach my peak in karate. They also disrupted my studies and preparation for university entrance examinations during my final year of high school. Before that happened, I'd planned to continue as a full-time national team athlete while pursuing a sports-related degree at university through a special admission arrangement for national team members.
 
