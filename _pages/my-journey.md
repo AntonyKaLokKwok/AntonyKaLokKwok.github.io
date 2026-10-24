@@ -8,7 +8,7 @@ author_profile: true
 <figure style="text-align: center; margin: 24px 0;">
 <img src="/images/athletics/karate%205.jpg" alt="Antony and his karate teammates celebrating a competition in Hong Kong" style="display: block; max-width: 100%; max-height: 380px; width: auto; height: auto; margin: 0 auto; border-radius: 8px;">
 <figcaption style="font-size: 0.85em; margin-top: 10px;">
-Won a **gold trophy in individual men's kumite** and a **bronze trophy in adult men's team kumite** at a karate competition in Hong Kong in 2013.
+Won a <strong>gold trophy in individual men's kumite</strong> and a <strong>bronze trophy in adult men's team kumite</strong> at a karate competition in Hong Kong in 2013.
 </figcaption>
 </figure>
 
