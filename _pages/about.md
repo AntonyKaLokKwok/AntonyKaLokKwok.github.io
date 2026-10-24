@@ -24,7 +24,7 @@ With my interdisciplinary training in economics, mathematics, statistics, and ur
 </div>
 
 <div style="min-width: 0;">
-<img src="/images/athletics/karate%202.jpg" alt="Antony wearing two bronze medals and holding his competition certificate" style="display: block; width: 100%; height: 260px; object-fit: contain; border-radius: 8px;">
+<img src="/images/athletics/karate%202.jpg" alt="With a competition judge at the international karate championship" style="display: block; width: 100%; height: 260px; object-fit: contain; border-radius: 8px;">
 <p style="font-size: 0.8em; margin: 8px 0 0;">With two bronze medals and my competition certificate</p>
 </div>
 
