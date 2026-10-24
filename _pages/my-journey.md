@@ -8,7 +8,7 @@ author_profile: true
 <figure style="text-align: center; margin: 24px 0;">
 <img src="/images/athletics/karate%205.jpg" alt="Antony and his karate teammates celebrating a competition in Hong Kong" style="display: block; max-width: 100%; max-height: 380px; width: auto; height: auto; margin: 0 auto; border-radius: 8px;">
 <figcaption style="font-size: 0.85em; margin-top: 10px;">
-Celebrating with my karate teammates in Hong Kong, where I won the individual sparring championship in the adult team division and our team finished third.
+Won a **gold trophy in individual men's kumite** and a **bronze trophy in adult men's team kumite** at a karate competition in Hong Kong in 2013.
 </figcaption>
 </figure>
 
