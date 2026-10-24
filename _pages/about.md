@@ -13,7 +13,7 @@ My research interests are **urban economics, housing policy, transportation acce
 
 At Tufts, I've been involved in collaborative and independent research across urban economics, housing policy, transportation accessibility, spatial inequality, and urban informatics. I've worked with **Professor Shomon Shamsuddin** on affordable housing, neighborhood outcomes, and Medicaid expansion, and with **Professor Justin Hollander** on digital urban inequality using large-scale Wikipedia data. I've also developed independent projects on affordable housing, transportation accessibility, urban heat, and spatial inequality, with guidance and support from **Professors Shan Jiang, Sumeeta Srinivasan, and Peilei Fan**. These experiences have contributed to working papers, conference presentations, and ongoing research.
 
-With my interdisciplinary training in economics, mathematics, statistics, and urban planning, I use **applied and spatial econometrics, causal inference, geographic information systems (GIS), spatial analysis, and large-scale urban data** to investigate these questions. Much of my research is still in progress, and I hope to develop these projects into publishable work that informs more equitable and effective urban and social policies.
+Drawing on my formal academic training in economics, mathematics, and statistics, along with my graduate studies in environmental policy and planning, I use **applied and spatial econometrics, causal inference, geographic information systems (GIS), spatial analysis, and large-scale urban data** to investigate these questions. Much of my research is still in progress, and I hope to develop these projects into publishable work that informs more equitable and effective urban and social policies.
 
 <figure style="margin: 28px 0; text-align: center;">
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; align-items: start;">
@@ -44,7 +44,7 @@ Representing Hong Kong at the 9th Korea Open International Karate-do Championshi
 </figcaption>
 </figure>
 
-Beyond academia, my journey has been shaped by an unconventional transition from junior national team athletics to academic research. **At the age of 6, I was selected to join Hong Kong's junior national tennis team, where I trained and competed in various tournaments until I could no longer receive full sponsorship.** I then switched to karate at the age of 14, eventually **representing Hong Kong internationally as a member of its national team**. However, I tore all three ligaments in my right ankle and several ligaments in my right shoulder during the annual Hong Kong Secondary Schools Handball Competition. These injuries ended my athletic career just as I was beginning to reach my peak in karate. They also disrupted my studies and preparation for university entrance examinations during my final year of high school. Before that happened, I'd planned to continue as a full-time national team athlete while pursuing a sports-related degree at university through a special admission arrangement for national team members.
+Beyond academia, my journey has been shaped by an unconventional transition from junior national team athletics to academic research. **At the age of 6, I was selected to join Hong Kong's junior national tennis team, where I trained and competed in various tournaments until I could no longer receive full sponsorship.** I then switched to karate at the age of 14, eventually **representing Hong Kong internationally as a member of its national team**. However, I tore all three ligaments in my right ankle and several ligaments in my right shoulder during the annual Hong Kong Secondary Schools Handball Competition. These injuries ended my athletic career just as I was beginning to reach my peak in karate. They also disrupted my studies and preparation for university entrance examinations during my final year of high school. Before that happened, I'd planned to continue as a full-time national team athlete while pursuing a sports-related university degree through an admission pathway for national team athletes.
 
 After losing the sporting career I'd worked toward, I took physically demanding jobs at DHL and FedEx cargo facilities at Hong Kong International Airport. At that point, I'd lost hope and had little idea of what my future would look like. Eventually, encouragement from senior coworkers motivated me to return to education and rebuild my life through studying.
 
@@ -68,7 +68,7 @@ You can also [learn more about my teaching and tutoring experience here](/teachi
 - **Labor Economics, Gender Inequality, and Employment Outcomes**
 - **Public Economics, Income Inequality, and Social Policy**
 - **Food Economics, Food Security, and Food Policy**
-- **Environmental Justice, Urban Heat, and Climate Resilience**wh
+- **Environmental Justice, Urban Heat, and Climate Resilience**
 
 <a href="/research/" class="btn btn--primary">Explore My Research &rarr;</a>
 
