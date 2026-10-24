@@ -17,10 +17,9 @@ With my interdisciplinary training in economics, mathematics, statistics, and ur
 
 <figure style="text-align: center; margin: 28px 0;">
   <img
-    src="{{ '/images/athletics/karate 1.jpg' | relative_url }}"
+    src="/images/athletics/karate%201.jpg"
     alt="Antony representing Hong Kong at an international karate competition"
-    loading="lazy"
-    style="display: block; width: auto; max-width: 100%; max-height: 360px; height: auto; margin: 0 auto; border-radius: 8px;"
+    style="display: block; max-width: 100%; max-height: 360px; width: auto; height: auto; margin: 0 auto; border-radius: 8px;"
   >
   <figcaption style="font-size: 0.85em; margin-top: 10px;">
     Representing Hong Kong at the 9th Korea Karate Invitational Tournament,
