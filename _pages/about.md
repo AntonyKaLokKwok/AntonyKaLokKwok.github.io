@@ -48,7 +48,7 @@ Beyond academia, my journey has been shaped by an unconventional transition from
 
 After losing the sporting career I'd worked toward, I took physically demanding jobs at DHL and FedEx cargo facilities at Hong Kong International Airport. At that point, I'd lost hope and had little idea of what my future would look like. Eventually, encouragement from senior coworkers motivated me to return to education and rebuild my life through studying.
 
-If you'd like to know more about my athletic background and the experiences that shaped my journey, you can [read My Journey here](/my-journey/).
+If you'd like to know more about my athletic background and the experiences that shaped my journey, you can read [My Journey](/my-journey/) here.
 
 As a first-generation university student born and raised in Hong Kong to parents who immigrated from Fujian, I've come to understand how access to resources and opportunities can change a person's life. My journey has strengthened my determination to pursue higher education and become an educator who can give others hope and motivation. Having experienced challenges and setbacks along my own educational journey, I hope to help students overcome similar barriers and pursue opportunities they might otherwise believe are out of reach.
 
