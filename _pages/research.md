@@ -54,23 +54,17 @@ Extending previous research on urban heat, neighborhood inequality, and bikeshar
 
 ## Conference Presentations
 
-### Urban Affairs Association (UAA) Annual Conference
-
-*April 2027 · Accepted for Presentation*
+### Urban Affairs Association (UAA) Annual Conference <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>April 2027 · Accepted for Presentation</em></span>
 
 Hollander, J., & Kwok, A. “What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia.”
 
 Coauthor; Professor Justin Hollander designated as primary presenter.
 
-### American Association of Geographers (AAG) Annual Meeting
-
-*February 2027 · Accepted for Presentation*
+### American Association of Geographers (AAG) Annual Meeting <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>February 2027 · Accepted for Presentation</em></span>
 
 “Spatial Inequalities in Bluebikes Accessibility: Affordable Housing, Transportation Disadvantage, and Urban Heat in Boston.”
 
-### American Association of Geographers (AAG) Annual Meeting
-
-*March 20, 2026 · San Francisco, CA · Presented*
+### American Association of Geographers (AAG) Annual Meeting <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>March 20, 2026 · San Francisco, CA · Presented</em></span>
 
 “Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access.”
 
