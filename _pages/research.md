@@ -70,9 +70,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 
 ## Research Papers and Applied Projects
 
-### Housing, Transportation, GIS, and Environmental Justice
-
-#### <a href="https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d" target="_blank" rel="noopener" style="text-decoration: underline;">Housing and Transit Vulnerability in Grand Annecy ↗</a>
+#### [Housing and Transit Vulnerability in Grand Annecy ↗](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d)
 
 *Summer 2026 · GIS 201: Introduction to GIS · ArcGIS StoryMap · Grand Annecy, France · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
