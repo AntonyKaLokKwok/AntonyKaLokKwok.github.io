@@ -21,7 +21,7 @@ My current graduate studies integrate economics, quantitative research methods, 
 **M.S. in Economics**  
 *Graduated May 2025*
 
-Completed graduate coursework in microeconomic theory, macroeconomic theory, statistics, econometrics, income inequality, and real analysis. This training strengthened my foundation in economic theory, mathematical reasoning, and quantitative research.
+Completed graduate coursework in microeconomic theory, macroeconomic theory, statistics for econometrics, econometrics, income inequality, and real analysis. This training strengthened my foundation in economic theory, mathematical reasoning, and quantitative research.
 
 ### University of Minnesota Twin Cities
 
@@ -47,7 +47,7 @@ Participating in academic conferences allows me to exchange ideas, learn from re
 
 *Accepted for Presentation | Coauthor with Professor Justin Hollander*
 
-**What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World's Largest Encyclopedia**
+**What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia**
 
 Professor Justin Hollander is designated as the primary presenter.
 
@@ -61,7 +61,7 @@ Presenting at AAG provided an opportunity to share my research, engage with scho
 
 For research descriptions and methodological details, visit my [Research](/research/) and [Conference Presentations](/talks/) pages.
 
-## Academic Engagement and Professional Development
+## Academic Programs and Experiences
 
 ### Summer GIS Program — Talloires, France
 
@@ -72,12 +72,6 @@ Participated in GIS coursework in Talloires, France, where I applied spatial ana
 This international academic experience provided an opportunity to explore urban and regional planning questions in a different geographic context.
 
 [Housing and Transit Vulnerability in Grand Annecy](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d)
-
-### Interdisciplinary Learning and Academic Exchange
-
-My academic experiences have involved interactions with researchers and students from economics, mathematics, urban planning, environmental policy, geography, and related disciplines.
-
-Through graduate seminars, research discussions, coursework, and collaborative projects, I have developed an appreciation for interdisciplinary approaches to understanding complex social and economic problems.
 
 ## Academic Honors and Recognition
 
@@ -109,26 +103,56 @@ Participate in student organization coordination, academic engagement, and profe
 
 *University of Minnesota Twin Cities | 2023*
 
-Helped organize networking activities, professional-development opportunities, and academic events for students interested in statistics and quantitative methods.
+Organized networking activities, professional-development opportunities, and academic events for students interested in statistics and quantitative methods.
 
-### Economics Undergraduate Student Board — Marketing Officer
+### UNICEF Student Organization — Public Relations Officer
+
+*University of Minnesota Twin Cities | 2023*
+
+Coordinated fundraising initiatives and community-service activities, contributing to student engagement and outreach.
+
+### Society of Asian Scientists and Engineers (SASE) — Corporate Relations Officer
 
 *University of Minnesota Twin Cities | 2022–2023*
 
-Supported student engagement, economics-related events, and opportunities for interaction between faculty and students.
+Organized employer presentations, career-development workshops, and networking opportunities connecting students with industry professionals.
 
-### Economics Mentorship Program — Mentor
+### Economics Undergraduate Student Board (EUSB) — Marketing Officer
+
+*University of Minnesota Twin Cities | 2022–2023*
+
+Supported economics-related events, student engagement activities, and opportunities for interaction between faculty and students.
+
+### Economics Mentorship Program (EMP) — Mentor
 
 *University of Minnesota Twin Cities | 2021–2022*
 
 Provided guidance to undergraduate economics students on course selection, academic planning, and university experiences.
 
-## Reflections on Academic Life
+### International Student Ambassador (ISA)
 
-One of the most meaningful aspects of academic life for me is the opportunity to exchange knowledge and perspectives with others. I value the conversations, collaborations, and experiences that challenge my assumptions and encourage me to approach questions differently.
+*University of Minnesota Twin Cities | 2021–2022*
 
-I hope to continue learning from different academic communities while contributing through research, teaching, and collaboration.
+Supported prospective and incoming international students through advising, university events, and student engagement activities.
+
+### Chinese American Student Association (CASA)
+
+*University of Minnesota Twin Cities | 2021*
+
+Helped organize cultural and community-building activities, including a Lunar New Year celebration attended by approximately 500 participants and a student retreat for approximately 30 participants.
+
+## Independent Academic and Technical Projects
+
+### Chinese Culture AI Agent (华花) — AI Chatbot Application
+
+*Fall 2026 | Independent Technical Project*
+
+Developed and deployed an interactive AI chatbot for Chinese cultural education using Hugging Face Spaces and external AI API integration.
+
+Designed a bilingual Chinese–English interface to support interactive exploration of Chinese cultural topics.
+
+Planned future development includes integrating Wikipedia and Wikidata geographic datasets to explore AI-assisted information retrieval and applications in urban planning and computational urban analytics.
 
 ---
 
-Learn more about my [Research](/research/), [Teaching](/teaching/), and [Personal Journey](/my-journey/).
+Learn more about my [Research](/research/), [Teaching](/teaching/), [Personal Journey](/my-journey/), or view my [Curriculum Vitae](/cv/).
