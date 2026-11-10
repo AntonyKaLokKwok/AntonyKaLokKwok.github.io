@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Ka Lok (Antony) Kwok**, born and raised in Hong Kong, and currently pursuing an M.S. in Environmental Policy and Planning at Tufts University. I previously earned an M.S. in Economics from Tufts University, along with a B.S. in Economics, a B.A. in Mathematics, and a minor in Statistics from the University of Minnesota Twin Cities.
+I'm **Ka Lok (Antony) Kwok 郭嘉洛**, born and raised in Hong Kong, and currently pursuing an M.S. in Environmental Policy and Planning at Tufts University. I previously earned an M.S. in Economics from Tufts University, along with a B.S. in Economics, a B.A. in Mathematics, and a minor in Statistics from the University of Minnesota Twin Cities.
 
 My research interests are **urban economics, housing policy, transportation accessibility, spatial inequality, urban informatics, health policy, economics of education, labor economics, socioeconomic inequality, food policy, and environmental justice**. I'm particularly interested in how **housing policies, urban development, and transportation systems shape neighborhood conditions, socioeconomic opportunities, and spatial disparities**, especially in historically disadvantaged communities.
 
