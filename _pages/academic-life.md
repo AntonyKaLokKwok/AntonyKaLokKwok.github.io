@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Academic Life"
@@ -6,9 +5,9 @@ permalink: /academic-life/
 author_profile: true
 ---
 
-My academic life has been shaped by experiences across economics, mathematics, environmental policy, urban planning, and geographic information systems (GIS). Moving between these disciplines has encouraged me to explore different ways of understanding the world, question existing assumptions, and learn from people with diverse academic backgrounds.
+My academic journey has taken me across economics, mathematics, environmental policy, urban planning, and geographic information systems (GIS). These experiences have encouraged me to explore different disciplines, question existing assumptions, and learn from people with diverse academic perspectives.
 
-Beyond coursework and research, I value opportunities to participate in academic communities, exchange ideas, attend conferences, and contribute to student organizations. This page documents some of the experiences and milestones that have shaped my academic development.
+Beyond coursework and research, I value opportunities to exchange ideas, participate in academic communities, attend conferences, and contribute to student organizations. This page highlights some of the experiences and milestones that have shaped my academic life.
 
 ## Education
 
@@ -17,14 +16,12 @@ Beyond coursework and research, I value opportunities to participate in academic
 **M.S. in Environmental Policy and Planning**  
 *2025–Present | Expected May 2027*
 
-My current graduate studies connect my background in economics and quantitative methods with urban planning, housing policy, transportation accessibility, environmental justice, and spatial analysis.
-
-My master's thesis focuses on the economic effects of Low-Income Housing Tax Credit (LIHTC) development on U.S. housing markets.
+My current graduate studies integrate economics, quantitative research methods, GIS, and urban planning. My master's thesis is developing a dynamic general-equilibrium model to examine the economic effects of Low-Income Housing Tax Credit (LIHTC) development on U.S. housing markets.
 
 **M.S. in Economics**  
 *Graduated May 2025*
 
-My economics training provided a foundation in economic theory, econometrics, mathematical reasoning, and quantitative research.
+Completed graduate coursework in microeconomic theory, macroeconomic theory, statistics for econometrics, income inequality, and real analysis. This training strengthened my foundation in economic theory, mathematical reasoning, and quantitative research.
 
 ### University of Minnesota Twin Cities
 
@@ -34,11 +31,11 @@ My economics training provided a foundation in economic theory, econometrics, ma
 - **B.A. in Mathematics**
 - **Minor in Statistics**
 
-My undergraduate education introduced me to economic research, mathematical modeling, statistics, and the application of quantitative methods to social and economic questions.
+My undergraduate studies developed my interests in mathematical modeling, statistical analysis, econometrics, and the application of quantitative methods to economic and social questions.
 
 ## Academic Conferences and Research Communities
 
-Conferences provide opportunities for me to learn from researchers working in different fields, receive feedback, and exchange ideas about emerging research questions and methods.
+Participating in academic conferences allows me to exchange ideas, learn from researchers across disciplines, and receive feedback on my work.
 
 ### 2027 — American Association of Geographers (AAG) Annual Meeting
 
@@ -46,15 +43,11 @@ Conferences provide opportunities for me to learn from researchers working in di
 
 **Spatial Inequalities in Bluebikes Accessibility: Affordable Housing, Transportation Disadvantage, and Urban Heat in Boston**
 
-My research examines transportation accessibility, affordable housing, and neighborhood inequality using GIS and quantitative spatial analysis.
-
 ### 2027 — Urban Affairs Association (UAA) Annual Conference
 
-*Research Accepted for Presentation | Coauthor with Professor Justin Hollander*
+*Accepted for Presentation | Coauthor with Professor Justin Hollander*
 
 **What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World's Largest Encyclopedia**
-
-This collaborative research investigates geographic inequalities in the representation of cities and other places on Wikipedia.
 
 Professor Justin Hollander is designated as the primary presenter.
 
@@ -64,41 +57,37 @@ Professor Justin Hollander is designated as the primary presenter.
 
 **Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access**
 
-Presented research examining the relationships among urban heat, affordable housing, neighborhood socioeconomic characteristics, and bikeshare accessibility in Boston.
+Presenting at AAG provided an opportunity to share my research, engage with scholars, and gain experience communicating quantitative research to an interdisciplinary academic audience.
 
-For additional details, see my [Research](/research/) page and [Conference Presentations](/talks/).
+For research descriptions and methodological details, visit my [Research](/research/) and [Conference Presentations](/talks/) pages.
 
 ## Academic Engagement and Professional Development
 
-### GIS and International Academic Experience
+### Summer GIS Program — Talloires, France
 
-**Summer 2026 — GIS 201: Introduction to GIS, Talloires, France**
+*Summer 2026 | Tufts University*
 
-Participated in GIS coursework through Tufts University, applying spatial analysis techniques to questions of housing affordability and public transportation accessibility in Grand Annecy, France.
+Participated in GIS coursework in Talloires, France, where I applied spatial analysis techniques to questions of housing affordability and transportation accessibility in Grand Annecy.
 
-Developed the ArcGIS StoryMap:
+This international academic experience provided an opportunity to explore urban and regional planning questions in a different geographic context.
 
 [Housing and Transit Vulnerability in Grand Annecy](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d)
 
-The project integrated housing transaction data, public transportation networks, and spatial statistical methods to examine geographic inequalities in housing and transit access.
+### Interdisciplinary Learning and Academic Exchange
 
-### Interdisciplinary Research and Learning
+My academic experiences have involved interactions with researchers and students from economics, mathematics, urban planning, environmental policy, geography, and related disciplines.
 
-Through graduate coursework, collaborative research, academic presentations, and faculty discussions, I have continued to expand my methodological interests beyond traditional economics.
-
-My academic interests increasingly connect economic modeling, causal inference, spatial econometrics, GIS, and urban policy analysis.
-
-I especially value opportunities to learn methods from other disciplines and consider how different research approaches can complement one another.
+Through graduate seminars, research discussions, coursework, and collaborative projects, I have developed an appreciation for interdisciplinary approaches to understanding complex social and economic problems.
 
 ## Academic Honors and Recognition
 
-### 2026 Tufts GIS Expo — GIS Award Finalist
+### 2026 Tufts GIS Expo — GIS Award Finalist (Advanced StoryMaps)
 
-*Advanced StoryMaps | Summer 2026*
+*Summer 2026*
 
 **Spatial Analysis of LIHTC, Housing Affordability, and Health**
 
-Recognized as a finalist for an ArcGIS StoryMap examining spatial patterns of affordable housing development, housing affordability, and neighborhood health conditions in Massachusetts.
+Recognized as a finalist for an ArcGIS StoryMap examining affordable housing, housing affordability, and neighborhood health disparities in Massachusetts.
 
 [View ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)
 
@@ -126,22 +115,20 @@ Helped organize networking activities, professional-development opportunities, a
 
 *University of Minnesota Twin Cities | 2022–2023*
 
-Supported student engagement activities, economics-related events, and opportunities for interaction between faculty and students.
+Supported student engagement, economics-related events, and opportunities for interaction between faculty and students.
 
 ### Economics Mentorship Program — Mentor
 
 *University of Minnesota Twin Cities | 2021–2022*
 
-Provided guidance to undergraduate economics students regarding course selection, academic planning, and university experiences.
+Provided guidance to undergraduate economics students on course selection, academic planning, and university experiences.
 
 ## Reflections on Academic Life
 
-My academic journey has not always been straightforward, but each stage has given me opportunities to learn something new and reconsider what I want to pursue.
+One of the most meaningful aspects of academic life for me is the opportunity to exchange knowledge and perspectives with others. I value the conversations, collaborations, and experiences that challenge my assumptions and encourage me to approach questions differently.
 
-One of the most meaningful parts of academic life for me is the exchange of ideas with professors, classmates, researchers, and students. I believe learning should extend beyond classrooms, textbooks, and individual disciplines.
-
-As I continue my academic journey, I hope to keep exploring new questions, developing my research skills, and contributing to academic communities through research, teaching, and collaboration.
+I hope to continue learning from different academic communities while contributing through research, teaching, and collaboration.
 
 ---
 
-Explore more about my [Research](/research/), [Teaching](/teaching/), and [Personal Journey](/my-journey/).
+Learn more about my [Research](/research/), [Teaching](/teaching/), and [Personal Journey](/my-journey/).
