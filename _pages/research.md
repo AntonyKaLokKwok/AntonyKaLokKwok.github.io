@@ -113,6 +113,15 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found a stronger positive relationship between temperature and ridership in LIHTC tracts with station access (β ≈ 9.92, p < 0.001).
 - Interpreted the findings as exploratory spatial and transportation relationships rather than causal effects.
 
+#### Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space
+
+*Spring 2026 · UEP 255: Field Projects · Collaborative Research Project · Tufts University · Instructor: Professor Penn Loh · Community Partner: Chinatown Community Land Trust (CCLT)*
+
+- Collaborated with a graduate research team and the Chinatown Community Land Trust to evaluate environmental justice challenges and strategies for equitable energy transitions and resilient open space in Boston's Chinatown.
+- Designed Cantonese-language survey questionnaires and interview protocols for engagement with Cantonese-speaking residents.
+- Conducted resident interviews in Cantonese.
+- Contributed to stakeholder engagement, qualitative data collection, policy analysis, and community-centered planning recommendations.
+
 #### Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access
 
 *Fall 2025 · UEP 237: Urban Analytics · Research Paper · Tufts University · Instructor: Professor Shan Jiang · Presented at AAG 2026*
@@ -123,46 +132,6 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found that a 1°C increase in county-average monthly temperature was associated with approximately 7.2 additional Bluebikes trips per 1,000 residents within the same census tract (p < 0.01).
 - Identified a weaker temperature-ridership association in neighborhoods with higher minority population shares (interaction β ≈ -5.04, p < 0.05).
 - Examined heat-related vulnerability across neighborhoods including Roxbury, Dorchester, Chinatown, and East Boston.
-
-#### Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space
-
-*Spring 2026 · UEP 255: Field Projects · Collaborative Research Project · Tufts University · Instructor: Professor Penn Loh · Community Partner: Chinatown Community Land Trust (CCLT)*
-
-- Collaborated with a graduate research team and the Chinatown Community Land Trust to evaluate environmental justice challenges and strategies for equitable energy transitions and resilient open space in Boston's Chinatown.
-- Designed Cantonese-language survey questionnaires and interview protocols for engagement with Cantonese-speaking residents.
-- Conducted resident interviews in Cantonese.
-- Contributed to stakeholder engagement, qualitative data collection, policy analysis, and community-centered planning recommendations.
-
-#### Advanced GIS and Network-Based Spatial Analysis
-
-*Summer–Fall 2026 · Advanced GIS · Tufts University · Professor Sumeeta Srinivasan*
-
-- Applied ArcGIS Pro, spatial SQL, and network-based GIS methods to transportation and accessibility problems.
-- Analyzed MBTA stop-level operational measures using spatial queries and proximity analysis.
-- Applied network service areas, least-cost paths, elevation-informed route analysis, and accessibility measures.
-- Extended prior transportation-equity research through network-based approaches to bikeshare, transit, and affordable-housing accessibility.
-
-#### From Happy Kids to Successful Adults: Sibling Evidence on Childhood Emotional Well-Being
-
-*April 2025 · Economics Research Paper*
-
-- Examines whether childhood and adolescent emotional well-being is associated with university attendance, employment, and adult economic outcomes.
-- Uses the Panel Study of Income Dynamics (PSID), including the Transition into Adulthood Supplement and Child Development Supplement.
-- Develops a sibling fixed-effects research design comparing siblings raised within the same household to reduce family-level confounding.
-- Constructs measures of adolescent happiness, interest in life, and life satisfaction and links them to later educational and economic outcomes.
-- Frames emotional well-being as an early-life human-capital input potentially related to resilience, self-regulation, long-term planning, and educational attainment.
-- The paper develops the empirical design and proposed analysis; final causal estimates are not yet reported.
-
-#### Childhood Food Access and College Enrollment: A Difference-in-Differences Analysis of SNAP Expansions on Educational Attainment
-
-*April 7, 2025 · Economics and Food Policy Research Paper*
-
-- Examines whether childhood exposure to expanded Supplemental Nutrition Assistance Program eligibility through Broad-Based Categorical Eligibility (BBCE) is associated with later college enrollment.
-- Uses staggered state adoption of BBCE between 1996 and 2016 as policy variation.
-- Integrates PSID longitudinal household data with state policy timelines and economic controls.
-- Develops a staggered Difference-in-Differences research design with state and cohort fixed effects.
-- Proposes event-study tests for pre-treatment trends and heterogeneous effects across childhood developmental periods.
-- Examines whether the duration and timing of childhood nutritional support may influence long-run educational attainment.
 
 #### Does Gender and Marital Status Affect Workplace Inequality?
 
