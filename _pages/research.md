@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research specializes in **quantitative urban policy analysis**, drawing on applied microeconomics, econometrics, macroeconomic modeling, and geographic information systems (GIS). My work examines affordable housing, neighborhood socioeconomic inequality, transportation accessibility, environmental justice, health equity, and geographic information inequality. I use causal inference, policy evaluation, spatial econometrics, and computational urban analytics to study these issues.
+My research specializes in **quantitative urban policy analysis**, drawing on applied microeconomics, econometrics, macroeconomic modeling, and geographic information systems (GIS). My work examines affordable housing, neighborhood socioeconomic inequality, transportation accessibility, environmental justice, health equity, education, labor-market inequality, food policy, and geographic information inequality. I use causal inference, policy evaluation, spatial econometrics, dynamic economic modeling, and computational urban analytics to study these issues.
 
 My academic background includes an **M.S. in Economics from Tufts University (May 2025)**, a **B.S. in Econometrics and Quantitative Economics**, a **B.A. in Mathematics**, and a **minor in Statistics** from the University of Minnesota Twin Cities (December 2023). I am currently pursuing an **M.S. in Environmental Policy and Planning at Tufts University (expected May 2027)**.
 
@@ -13,25 +13,44 @@ My academic background includes an **M.S. in Economics from Tufts University (Ma
 
 Urban and Housing Economics; Affordable Housing Policy; Spatial and Applied Econometrics; Transportation Accessibility and Equity; Spatial and Socioeconomic Inequality; Urban Informatics and Computational Urban Analytics; Environmental Justice and Health Policy; Economics of Education and Labor Economics; Food Policy and Accessibility.
 
+## Research Experience
+
+### Graduate Research Assistant — Professor Shomon Shamsuddin
+
+*Tufts University · September 2025–present*
+
+- Investigate Low-Income Housing Tax Credit (LIHTC) development, housing affordability, neighborhood change, and community health using HUD LIHTC records, ACS, CDC PLACES, HUD-USPS vacancy data, and spatial datasets.
+- Construct and harmonize census-tract-level datasets to support housing policy evaluation, including staggered difference-in-differences, event-study, boundary-based, and spatial econometric research designs.
+- Contribute to research on Medicaid expansion, housing stability, and financial security through empirical research design, data preparation, literature review, and statistical analysis.
+
+### Graduate Research Assistant — Professor Justin Hollander
+
+*Tufts University · September 2025–present*
+
+- Investigate digital urban inequality and the spatial distribution of geographic information in Wikipedia, examining how population and geographic characteristics relate to the representation of cities and other places.
+- Analyze a dataset of 1,660,911 Wikipedia pages, filtered to 62,789 geographic entities using Wikidata classifications, including cities, towns, villages, human settlements, and administrative regions.
+- Develop reproducible R workflows for large-scale data cleaning, geographic classification, population-data integration, descriptive statistics, and correlation analysis.
+- Examine variation in article coverage, information depth, population, and geographic representation across settlements and regions.
+
 ## Research in Progress
 
-### The Macroeconomic Effects of LIHTC Development: A Dynamic General-Equilibrium Analysis
+### The Macroeconomic and Spatial Effects of Low-Income Housing Tax Credit Development: A Dynamic General-Equilibrium Framework
 
 *2026–present · Master's Thesis · Advisor: Professor Shomon Shamsuddin*
 
-Developing a calibrated deterministic dynamic general-equilibrium model linking household consumption and saving, nonhousing production, private housing investment, and LIHTC-supported construction. Planned counterfactual simulations will examine the effects of affordable housing subsidies on rental prices, private construction, housing supply, aggregate consumption, and investment. The empirical component will use HUD, ACS, Census, BEA, and BLS data, complemented by GIS analysis of LIHTC development patterns and neighborhood socioeconomic conditions.
+Developing a calibrated deterministic dynamic general-equilibrium model to examine how LIHTC development could affect rental prices, private rental construction, aggregate consumption, productive investment, and housing supply. The model incorporates optimizing households, nonhousing production, rental-property development, market-rate and subsidized housing stocks, and a government-financed housing subsidy. Calibration will use publicly available HUD, Census, ACS, BEA, BLS, building-permit, and housing-market data, complemented by GIS analysis of LIHTC development patterns and neighborhood socioeconomic conditions.
 
 ### What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia
 
-*2025–present · Collaborative Research · Professor Justin Hollander*
+*2025–present · Collaborative Research · Professor Justin Hollander · UAA 2027 Accepted*
 
-Examining geographic disparities in Wikipedia’s representation of cities and other places using 1,660,911 Wikipedia pages, including 62,789 place-related observations. Integrating Wikidata settlement classifications, population estimates, and geographic information to investigate differences in article coverage, information depth, and spatial representation across settlements and regions.
+Examining geographic disparities in Wikipedia’s representation of cities and other places using 1,660,911 Wikipedia pages, including 62,789 place-related observations. Integrating Wikidata settlement classifications, population estimates, administrative geography, coordinates, and article characteristics to investigate differences in information coverage and spatial representation across settlements and regions.
 
 ### Spatial Inequalities in Bluebikes Accessibility: Affordable Housing, Transportation Disadvantage, and Urban Heat in Boston
 
 *2026–present · Conference Research · AAG 2027 Accepted*
 
-Extending previous research on urban heat, neighborhood inequality, and bikeshare activity to investigate spatial disparities in Bluebikes accessibility near Low-Income Housing Tax Credit (LIHTC) developments in Boston. Integrating HUD LIHTC locations, Bluebikes stations, ACS socioeconomic indicators, and satellite-derived land surface temperature. Preliminary GIS and regression analyses identified 47 LIHTC census tracts with Bluebikes stations and 21 without. Planned extensions include pedestrian-network service areas, slope-adjusted least-cost paths, and spatial econometric analysis to evaluate transportation equity and accessibility for affordable housing residents.
+Extending previous research on urban heat, neighborhood inequality, and bikeshare accessibility to investigate spatial disparities in Bluebikes access near Low-Income Housing Tax Credit developments in Boston. The analysis integrates HUD LIHTC locations, Bluebikes stations, ACS socioeconomic indicators, and urban heat measures. Preliminary GIS analysis identified 47 LIHTC census tracts with Bluebikes stations and 21 without. Extensions include pedestrian-network service areas, slope-adjusted least-cost paths, and spatial econometric analysis.
 
 ## Conference Presentations
 
@@ -55,120 +74,170 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 
 “Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access.”
 
-## Selected Research and Applied Projects
+## Research Papers and Applied Projects
 
-### GIS, Housing, Transportation, and Environmental Justice
+### Housing, Transportation, GIS, and Environmental Justice
 
-#### Housing and Transit Vulnerability in Grand Annecy
+#### <a href="https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d" target="_blank" rel="noopener" style="text-decoration: underline;">Housing and Transit Vulnerability in Grand Annecy ↗</a>
 
 *Summer 2026 · GIS 201: Introduction to GIS · ArcGIS StoryMap · Grand Annecy, France · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
 - Integrated French property transaction data (DVF+), SIBRA GTFS public transit schedules, and IRIS statistical boundaries to examine spatial disparities in housing prices and public transportation accessibility across Grand Annecy.
 - Applied ArcGIS Pro spatial analysis, including housing price per square meter, 400-meter transit-stop accessibility buffers, nearest-stop distances, and weekday transit service frequency.
-- Developed a composite housing–transit vulnerability index using raster reclassification, weighted overlay, and zonal statistics; applied Global and Local Moran’s I to assess spatial clustering and identify vulnerability hotspots.
-- Identified statistically significant positive spatial autocorrelation in the composite vulnerability index (Global Moran’s I = 0.627, z = 9.33, p < 0.001), indicating that housing–transit vulnerability is geographically clustered rather than randomly distributed.
+- Developed a composite housing-transit vulnerability index using raster reclassification, weighted overlay, and zonal statistics.
+- Applied Global and Local Moran’s I to assess spatial clustering and identify vulnerability hotspots.
+- Identified significant positive spatial autocorrelation in the composite vulnerability index (Global Moran’s I = 0.627, z = 9.33, p < 0.001).
 
 #### Spatial Analysis of LIHTC Development, Housing Affordability, and Tract-Level Health in Massachusetts
 
 *Spring 2026 · GIS 203: Spatial Statistics · Research Paper · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
-- Integrated HUD LIHTC property-level records, ACS socioeconomic and housing indicators, CDC PLACES health estimates, and Census TIGER/Line boundaries to construct Massachusetts census-tract datasets examining affordable housing, rent burden, and neighborhood health.
-- Applied exploratory spatial data analysis (ESDA), Local Moran’s I (LISA), cross-sectional OLS, residual spatial autocorrelation tests, and geographically weighted regression (GWR) to examine LIHTC clustering and spatial heterogeneity across six neighborhood health outcomes.
-- Found positive tract-level associations between LIHTC concentration and high blood pressure (β = 0.465, p = 0.0094) and diabetes prevalence. Identified significant residual spatial autocorrelation (Moran’s I = 0.274, p < 0.01) and geographic heterogeneity, with GWR demonstrating higher in-sample model fit (R² = 0.871 versus 0.696 for OLS).
-- Conducted an exploratory two-way fixed-effects Difference-in-Differences (DiD) analysis of LIHTC development timing and rent burden, finding no statistically significant post-development change (β = 0.0122, p = 0.413).
+- Integrated HUD LIHTC property-level records, ACS socioeconomic and housing indicators, CDC PLACES health estimates, and Census TIGER/Line boundaries.
+- Applied exploratory spatial data analysis (ESDA), Local Moran’s I (LISA), cross-sectional OLS, residual spatial-autocorrelation tests, and geographically weighted regression (GWR).
+- Found a positive tract-level association between LIHTC concentration and high blood pressure prevalence (β = 0.465, p = 0.0094), alongside substantial geographic heterogeneity.
+- Identified significant residual spatial autocorrelation (Moran’s I = 0.274, p < 0.01).
+- GWR produced higher in-sample model fit than the corresponding OLS specification (R² = 0.871 versus 0.696).
+- Conducted an exploratory two-way fixed-effects Difference-in-Differences analysis of LIHTC development timing and rent burden, finding no statistically significant post-development change (β = 0.0122, p = 0.413).
+- Results are interpreted as tract-level spatial relationships rather than individual-level causal health effects.
 
-#### [Spatial Analysis of LIHTC, Housing Affordability, and Health](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)
+#### <a href="https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a" target="_blank" rel="noopener" style="text-decoration: underline;">Spatial Analysis of LIHTC, Housing Affordability, and Health ↗</a>
 
 *Spring 2026 · GIS 203: Spatial Statistics · ArcGIS StoryMap · Interactive GIS Visualization · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
 **2026 Tufts GIS Expo — GIS Award Finalist (Advanced StoryMaps)**
 
 - Developed an interactive ArcGIS StoryMap illustrating the spatial distribution of LIHTC developments, housing affordability, and neighborhood health conditions across Massachusetts.
-- Applied thematic mapping, Local Moran’s I (LISA), and geographically weighted regression (GWR) visualizations to identify localized clusters, spatial outliers, and geographic variation in LIHTC–health associations.
-- Identified uneven concentrations of LIHTC developments and neighborhood health disparities across Massachusetts, with stronger positive local associations between LIHTC intensity and high blood pressure in parts of Central and Western Massachusetts and weaker or negative associations in Greater Boston.
+- Applied thematic mapping, Local Moran’s I (LISA), and geographically weighted regression visualizations to identify localized clusters, spatial outliers, and geographic variation in LIHTC-health associations.
+- Visualized stronger positive local associations between LIHTC intensity and high blood pressure in parts of Central and Western Massachusetts and weaker or negative associations in Greater Boston.
 
 #### Bluebikes Access, Affordable Housing, and Heat Inequality in Boston
 
-*Spring 2026 · UEP 173: Transportation Planning · Tufts University · Instructor: Professor Shan Jiang*
+*Spring 2026 · UEP 173: Transportation Planning · Research Paper · Tufts University · Instructor: Professor Shan Jiang*
 
-- Integrated HUD LIHTC property locations, Bluebikes station and trip records, ACS socioeconomic indicators, land surface temperature, and ERA5 climate data to examine transportation accessibility and heat inequality across Boston census tracts.
-- Conducted GIS-based spatial joins, proximity analysis, and mapping to identify disparities in Bluebikes station accessibility among affordable housing communities.
-- Estimated four regression models: (1) logistic regression of Bluebikes station presence; (2) OLS of land surface temperature and neighborhood socioeconomic characteristics; (3) tract fixed-effects regression of temperature-related ridership and station access; and (4) OLS of nearest-station distance within LIHTC tracts.
-- Identified 47 LIHTC census tracts with Bluebikes stations and 21 without. Found that station access was associated with a stronger positive relationship between temperature and ridership among LIHTC tracts (β ≈ 9.92, p < 0.001), with additional spatial disparities in station proximity by neighborhood characteristics.
-
-#### Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space
-
-*Spring 2026 · UEP 255: Field Projects · Tufts University · Instructor: Professor Penn Loh*
-
-*Collaborative Research Project · Community Partner: Chinatown Community Land Trust (CCLT)*
-
-- Collaborated with a graduate research team and the Chinatown Community Land Trust to evaluate environmental justice challenges and strategies for equitable energy transitions and resilient open space in Boston's Chinatown.
-- Designed Cantonese-language survey questionnaires and interview protocols to facilitate engagement with Cantonese-speaking residents.
-- Conducted resident interviews in Cantonese, gathering qualitative information to inform community-centered planning and policy recommendations.
-- Contributed to stakeholder engagement, qualitative data collection, and policy analysis supporting the team's environmental justice research.
+- Integrated HUD LIHTC property locations, Bluebikes station and trip records, ACS socioeconomic indicators, land surface temperature, ERA5 climate data, and census tract boundaries.
+- Conducted GIS spatial joins, proximity analysis, accessibility modeling, and mapping to investigate transportation accessibility and heat inequality.
+- Estimated logistic regression of Bluebikes station presence, OLS models of land surface temperature and neighborhood characteristics, tract fixed-effects models of temperature-related ridership, and OLS models of nearest-station distance within LIHTC tracts.
+- Identified 47 LIHTC census tracts with Bluebikes stations and 21 without.
+- Found a stronger positive relationship between temperature and ridership in LIHTC tracts with station access (β ≈ 9.92, p < 0.001).
+- Interpreted the findings as exploratory spatial and transportation relationships rather than causal effects.
 
 #### Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access
 
-*Fall 2025 · UEP 237: Urban Analytics · Tufts University · Instructor: Professor Shan Jiang*
+*Fall 2025 · UEP 237: Urban Analytics · Research Paper · Tufts University · Instructor: Professor Shan Jiang · Presented at AAG 2026*
 
-- Constructed a Boston census-tract-by-month panel integrating ERA5-Land temperature, Bluebikes trip records, HUD LIHTC developments, ACS socioeconomic indicators, and tree-canopy measures to investigate urban heat, affordable housing, and transportation inequality.
-- Conducted GIS-based spatial analysis and origin–destination (OD) flow mapping using kepler.gl to examine the geographic distribution of heat vulnerability, affordable housing, and bikeshare activity across Boston neighborhoods.
-- Estimated tract fixed-effects panel regression, pooled OLS with socioeconomic controls, and interaction models to examine temperature-related ridership and neighborhood heterogeneity; applied exploratory geographically weighted regression (GWR) to assess spatial variation.
-- Found that a 1°C increase in county-average monthly temperature was associated with approximately 7.2 additional Bluebikes trips per 1,000 residents within the same census tract (p < 0.01). Identified a weaker temperature–ridership association in neighborhoods with higher minority population shares (interaction β ≈ −5.04, p < 0.05).
+- Constructed a Boston census-tract-by-month panel integrating ERA5-Land temperature, Bluebikes trip records, HUD LIHTC developments, ACS socioeconomic indicators, and tree-canopy measures.
+- Conducted GIS-based spatial analysis and origin-destination flow mapping using kepler.gl.
+- Estimated tract fixed-effects panel regression, pooled OLS with socioeconomic controls, interaction models, and exploratory GWR.
+- Found that a 1°C increase in county-average monthly temperature was associated with approximately 7.2 additional Bluebikes trips per 1,000 residents within the same census tract (p < 0.01).
+- Identified a weaker temperature-ridership association in neighborhoods with higher minority population shares (interaction β ≈ -5.04, p < 0.05).
+- Examined heat-related vulnerability across neighborhoods including Roxbury, Dorchester, Chinatown, and East Boston.
 
-### Economics, Mathematics, and Quantitative Methods
+#### Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space
+
+*Spring 2026 · UEP 255: Field Projects · Collaborative Research Project · Tufts University · Instructor: Professor Penn Loh · Community Partner: Chinatown Community Land Trust (CCLT)*
+
+- Collaborated with a graduate research team and the Chinatown Community Land Trust to evaluate environmental justice challenges and strategies for equitable energy transitions and resilient open space in Boston's Chinatown.
+- Designed Cantonese-language survey questionnaires and interview protocols for engagement with Cantonese-speaking residents.
+- Conducted resident interviews in Cantonese.
+- Contributed to stakeholder engagement, qualitative data collection, policy analysis, and community-centered planning recommendations.
+
+#### Advanced GIS and Network-Based Spatial Analysis
+
+*Summer–Fall 2026 · Advanced GIS · Tufts University · Professor Sumeeta Srinivasan*
+
+- Applied ArcGIS Pro, spatial SQL, and network-based GIS methods to transportation and accessibility problems.
+- Analyzed MBTA stop-level operational measures using spatial queries and proximity analysis.
+- Applied network service areas, least-cost paths, elevation-informed route analysis, and accessibility measures.
+- Extended prior transportation-equity research through network-based approaches to bikeshare, transit, and affordable-housing accessibility.
+
+### Education, Food Policy, Labor Economics, and Inequality
+
+#### From Happy Kids to Successful Adults: Sibling Evidence on Childhood Emotional Well-Being
+
+*April 2025 · Economics Research Paper*
+
+- Examines whether childhood and adolescent emotional well-being is associated with university attendance, employment, and adult economic outcomes.
+- Uses the Panel Study of Income Dynamics (PSID), including the Transition into Adulthood Supplement and Child Development Supplement.
+- Develops a sibling fixed-effects research design comparing siblings raised within the same household to reduce family-level confounding.
+- Constructs measures of adolescent happiness, interest in life, and life satisfaction and links them to later educational and economic outcomes.
+- Frames emotional well-being as an early-life human-capital input potentially related to resilience, self-regulation, long-term planning, and educational attainment.
+- The paper develops the empirical design and proposed analysis; final causal estimates are not yet reported.
+
+#### Childhood Food Access and College Enrollment: A Difference-in-Differences Analysis of SNAP Expansions on Educational Attainment
+
+*April 7, 2025 · Economics and Food Policy Research Paper*
+
+- Examines whether childhood exposure to expanded Supplemental Nutrition Assistance Program eligibility through Broad-Based Categorical Eligibility (BBCE) is associated with later college enrollment.
+- Uses staggered state adoption of BBCE between 1996 and 2016 as policy variation.
+- Integrates PSID longitudinal household data with state policy timelines and economic controls.
+- Develops a staggered Difference-in-Differences research design with state and cohort fixed effects.
+- Proposes event-study tests for pre-treatment trends and heterogeneous effects across childhood developmental periods.
+- Examines whether the duration and timing of childhood nutritional support may influence long-run educational attainment.
 
 #### Does Gender and Marital Status Affect Workplace Inequality?
 
 *Spring 2025 · EC 202: Econometrics · Tufts University · Instructor: Professor Matthew Gudgeon*
 
-- Analyzed China Family Panel Studies (CFPS) data from 2010–2022, with approximately 149,000 regression observations, to examine gender and marital-status disparities in real annual earnings.
-- Estimated high-dimensional fixed-effects (HDFE) regressions with year and county fixed effects, individual-clustered standard errors, gender–marital status interaction terms, and urban–rural subsample analyses.
-- Found a substantial female earnings disadvantage in the baseline model (β = −9,037 RMB, p < 0.01), with an additional negative female–marital status interaction (β = −2,458 RMB, p < 0.01), indicating wider gender earnings disparities among individuals with a history of marriage.
-- Identified stronger negative gender–marital status associations in urban than rural areas (β = −3,929 versus −2,299 RMB, both p < 0.01), highlighting geographic heterogeneity in labor-market inequality.
+- Analyzed China Family Panel Studies data from 2010–2022, with approximately 149,000 regression observations.
+- Examined gender and marital-status disparities in real annual earnings.
+- Estimated high-dimensional fixed-effects regressions with year and county fixed effects, individual-clustered standard errors, and gender-marital-status interactions.
+- Found a substantial female earnings disadvantage in the baseline model (β = -9,037 RMB, p < 0.01).
+- Identified an additional negative female-marital-status interaction (β = -2,458 RMB, p < 0.01).
+- Found stronger negative gender-marital-status associations in urban than rural areas (β = -3,929 versus -2,299 RMB, both p < 0.01).
 
 #### School Financial Reform and Income Inequality
 
 *Spring 2025 · EC 144: Income Inequality · Tufts University · Instructor: Professor Elizabeth Setren*
 
-- Constructed a U.S. state-year panel comprising 1,010 observations from 1990–2018, integrating Census and school-finance data to investigate the relationship between school-finance reforms and average household income.
-- Applied Difference-in-Differences (DiD) using reform-state and post-2000 indicators, with demographic and socioeconomic controls; examined pre-treatment income trends and conducted placebo tests.
-- Implemented propensity score matching combined with Difference-in-Differences (PSM-DiD) to assess the sensitivity of estimates to observable differences between reform and comparison states.
-- Found approximately 2.6% lower average household income in reform states relative to comparison states during the post-2000 period (β = −0.0259, p < 0.01), with a similar negative estimate after matching (β = −0.0226, p < 0.01). Interpreted findings cautiously because reform adoption dates varied across states.
+- Constructed a U.S. state-year panel comprising 1,010 observations from 1990–2018.
+- Integrated Census and school-finance data to investigate relationships between school-finance reforms and state-level household income.
+- Applied Difference-in-Differences using reform-state and post-2000 indicators with demographic and socioeconomic controls.
+- Examined pre-treatment trends and conducted placebo tests.
+- Implemented propensity-score matching combined with Difference-in-Differences as a sensitivity analysis.
+- Found approximately 2.6% lower average household income in reform states during the post-2000 period (β = -0.0259, p < 0.01), with a similar estimate after matching (β = -0.0226, p < 0.01).
+- Interpreted the estimates cautiously because reform timing varied across states.
+
+#### What is the relationship between inequality and GDP growth?
+
+*Fall 2021 · ECON 4331W: Economic Development · University of Minnesota Twin Cities · Instructor: Jacob Strauss*
+
+- Examined relationships between income inequality and GDP per capita growth across countries, with particular attention to the United States and China.
+- Used World Bank indicators including GDP per capita growth, Gini coefficients, adjusted net national income, labor-force measures, and education expenditure.
+- Estimated a multivariable linear regression using 1,310 observations.
+- Examined residual plots, normal Q-Q plots, leverage, and scale-location diagnostics.
+- Found a statistically significant negative association between the Gini coefficient and GDP per capita growth (β = -0.069, SE = 0.014, p < 0.01).
+- Discussed the limited explanatory power of the specification (R² = 0.057) and potential endogeneity.
+
+### Mathematics and Stochastic Modeling
 
 #### Construction of ℝ Using Cauchy Sequences of Rational Numbers
 
 *Fall 2024 · MATH 135: Real Analysis I · Tufts University · Instructor: Professor Nima Hoda*
 
-- Constructed the real number system (ℝ) through equivalence classes of Cauchy sequences of rational numbers (ℚ), defining two sequences as equivalent when their difference converges to zero.
-- Proved reflexivity, symmetry, and transitivity of the equivalence relation using limit properties, the triangle inequality, and ε–N arguments; examined the well-definedness of addition and multiplication on equivalence classes.
-- Developed a proof of the Archimedean property of ℝ by contradiction, using the boundedness of Cauchy sequences and the Archimedean property of ℚ; established the density of rational numbers in ℝ through rational approximations and convergence arguments.
-- Investigated completeness through a diagonal-sequence construction intended to show how Cauchy sequences of real numbers admit limits within the constructed number system.
+- Constructed the real number system through equivalence classes of Cauchy sequences of rational numbers.
+- Defined equivalence of Cauchy sequences and proved reflexivity, symmetry, and transitivity.
+- Examined the well-definedness of addition and multiplication on equivalence classes.
+- Developed a proof of the Archimedean property of ℝ using boundedness of Cauchy sequences and the Archimedean property of ℚ.
+- Established the density of rational numbers in ℝ through rational approximations and convergence arguments.
+- Investigated completeness using a diagonal-sequence construction.
 
 #### Introduction to Markov Chains and Stochastic Decision-Making
 
-*Fall 2023 · Math 4997W: Senior Project (Writing Intensive) · University of Minnesota–Twin Cities · Supervisor: Professor Sergey Bobkov*
+*Fall 2023 · Math 4997W: Senior Project (Writing Intensive) · University of Minnesota Twin Cities · Supervisor: Professor Sergey Bobkov*
 
-- Analyzed discrete- and continuous-time Markov chains using transition probability matrices, transition-rate matrices, stationary distributions, and recurrence-time calculations to model stochastic systems.
-- Applied absorbing Markov-chain methods to a manufacturing process, deriving an approximately 18.25% probability of scrapping a part entering the initial production stage.
-- Solved a light-bulb replacement model using stationary distributions and mean recurrence times, calculating that exactly one bulb operates approximately 28.17% of the time and that the expected interval between replacements is 71 days.
-- Derived asymptotic expressions for the coupon collector problem using geometric waiting times, obtaining expected collection time of approximately N log(N) and variance of approximately (π²/6)N²; examined positive recurrence and continuous-time inventory and queueing applications.
-
-#### Income Inequality and Economic Growth: A Cross-Country Analysis
-
-*Fall 2021 · ECON 4331W: Economic Development · University of Minnesota–Twin Cities · Instructor: Jacob Strauss*
-
-- Analyzed World Bank indicators of GDP per capita growth, income inequality (Gini coefficient), adjusted net national income, labor force, and education expenditure, including comparative time-series analysis of the United States and China from 2001–2020.
-- Estimated a multivariable linear regression of GDP per capita growth on the Gini coefficient and country income-group indicators (high-, middle-, and low-income), using 1,310 observations; examined residuals, normal Q–Q plots, leverage, and scale-location diagnostics.
-- Found a statistically significant negative association between income inequality and GDP per capita growth (β = −0.069, SE = 0.014, p < 0.01), while acknowledging limited model fit (R² = 0.057) and potential endogeneity.
-- Compared U.S. and Chinese economic trajectories, documenting higher GDP per capita growth in China over the study period and differing Gini-index trends; discussed the potential roles of education investment, labor-force characteristics, and income distribution.
+- Analyzed discrete- and continuous-time Markov chains using transition probability matrices, transition-rate matrices, stationary distributions, recurrence times, and absorbing states.
+- Applied absorbing Markov-chain methods to a manufacturing process and calculated an approximately 18.25% probability of a part being scrapped.
+- Analyzed a light-bulb replacement model using stationary distributions and mean recurrence times.
+- Calculated that exactly one bulb operates approximately 28.17% of the time and that the expected interval between replacements is 71 days.
+- Derived asymptotic expressions for the coupon collector problem, obtaining expected collection time of approximately \(N \log N\) and variance of approximately \((\pi^2/6)N^2\).
+- Examined additional continuous-time inventory and queueing applications.
 
 ## Technical Skills and Research Methods
 
 - **Programming and data:** R, Stata, Python, MATLAB, Dynare; Hugging Face (Datasets, Spaces), AI chatbot development, API integration, Excel, GitHub, Jupyter, Google Colab, LaTeX.
-- **Geographic analysis:** ArcGIS Pro, ArcGIS StoryMaps, QGIS, CARTO, Kepler.gl; SQL (ArcGIS Pro attribute queries), spatial joins, network accessibility analysis, least-cost paths, raster analysis, weighted overlay, zonal statistics.
-- **Econometric and spatial methods:** Panel-data regression, OLS, logistic regression, difference-in-differences (DiD), event studies, propensity score matching (PSM-DiD), two-way and high-dimensional fixed effects (TWFE/HDFE), instrumental variables (IV/2SLS), regression discontinuity (RD), spatial econometrics, Global and Local Moran’s I (LISA), geographically weighted regression (GWR).
-- **Macroeconomic and stochastic modeling:** Dynamic general-equilibrium modeling (thesis in progress), Real Business Cycle (RBC) models, New Keynesian models, dynamic programming (Bellman equations), discrete- and continuous-time Markov chains.
+- **Geographic analysis:** ArcGIS Pro, ArcGIS StoryMaps, QGIS, CARTO, Kepler.gl; SQL and ArcGIS Pro attribute queries; spatial joins; network accessibility analysis; service areas; least-cost paths; raster analysis; weighted overlay; zonal statistics.
+- **Econometric and spatial methods:** Panel-data regression, OLS, logistic regression, difference-in-differences (DiD), event studies, propensity-score matching, TWFE/HDFE, instrumental variables (IV/2SLS), regression discontinuity, spatial econometrics, Global and Local Moran’s I (LISA), geographically weighted regression (GWR).
+- **Macroeconomic and stochastic modeling:** Dynamic general-equilibrium modeling, Real Business Cycle models, New Keynesian models, dynamic programming and Bellman equations, discrete- and continuous-time Markov chains.
 - **Languages:** Cantonese (native); English, Mandarin, and Southern Min Hokkien (fluent).
 
 ---
