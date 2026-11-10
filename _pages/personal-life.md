@@ -5,9 +5,13 @@ permalink: /personal-life/
 author_profile: true
 ---
 
-Academic work is only one part of my life. Before pursuing economics, mathematics, and urban planning, sports and athletics were major parts of my childhood and teenage years in Hong Kong.
+Academic work is only one part of my life now. Before pursuing my academic interests, sports were a major part of my childhood and teenage years in Hong Kong. Growing up, I participated in many different school sports teams, competitions, and athletic activities throughout primary and secondary school. These experiences allowed me to explore different interests, challenge myself, build friendships, and learn the importance of teamwork, discipline, and perseverance.
 
-Growing up, I participated in many different school sports teams, competitions, and athletic activities throughout primary and secondary school. These experiences allowed me to explore different interests, challenge myself, build friendships, and learn the importance of teamwork, discipline, and perseverance.
+Since moving to the United States, I've become a handy guy who enjoys working with his hands and getting them dirty. I've also developed an interest in fixing and repairing cars. I've tried working on almost every part of a car, either independently or with friends who share the same interest, except for removing engines or repairing transmissions. I've also learned to replace tires and perform various other repairs and maintenance tasks.
+
+Beyond cars, I enjoy building PCs and repairing electronic devices, including laptops and smartphones. I've also explored basic home improvement and renovation projects, such as repairing showers, kitchen sinks, and other household fixtures.
+
+Whether it's sports, cars, electronics, or home repairs, I enjoy learning through hands-on experience, figuring out how things work, and challenging myself to try something new.
 
 ## Sports and Athletics
 
