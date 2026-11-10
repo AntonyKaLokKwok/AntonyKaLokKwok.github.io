@@ -70,7 +70,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 
 ## Research Papers and Applied Projects
 
-#### [Housing and Transit Vulnerability in Grand Annecy ↗](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d)
+#### [Housing and Transit Vulnerability in Grand Annecy ↗](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d){:target="_blank" rel="noopener noreferrer"}
 
 *Summer 2026 · GIS 201: Introduction to GIS · ArcGIS StoryMap · Grand Annecy, France · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
@@ -92,7 +92,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Conducted an exploratory two-way fixed-effects Difference-in-Differences analysis of LIHTC development timing and rent burden, finding no statistically significant post-development change (β = 0.0122, p = 0.413).
 - Results are interpreted as tract-level spatial relationships rather than individual-level causal health effects.
 
-#### <a href="https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a" target="_blank" rel="noopener" style="text-decoration: underline;">Spatial Analysis of LIHTC, Housing Affordability, and Health ↗</a>
+#### [Spatial Analysis of LIHTC, Housing Affordability, and Health ↗](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a){:target="_blank" rel="noopener noreferrer"}
 
 *Spring 2026 · GIS 203: Spatial Statistics · ArcGIS StoryMap · Interactive GIS Visualization · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
