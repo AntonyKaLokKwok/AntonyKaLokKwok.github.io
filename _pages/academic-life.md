@@ -21,7 +21,7 @@ My current graduate studies integrate economics, quantitative research methods, 
 **M.S. in Economics**  
 *Graduated May 2025*
 
-Completed graduate coursework in microeconomic theory, macroeconomic theory, statistics for econometrics, econometrics, income inequality, and real analysis. This training strengthened my foundation in economic theory, mathematical reasoning, and quantitative research.
+Completed graduate coursework in microeconomic theory, macroeconomic theory, statistics, econometrics, income inequality, and real analysis. This training strengthened my foundation in economic theory, mathematical reasoning, and quantitative research.
 
 ### University of Minnesota Twin Cities
 
