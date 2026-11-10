@@ -153,6 +153,13 @@ Designed a bilingual Chinese–English interface to support interactive explorat
 
 Planned future development includes integrating Wikipedia and Wikidata geographic datasets to explore AI-assisted information retrieval and applications in urban planning and computational urban analytics.
 
+### Unibit App — Co-Founder and Chief Marketing Officer
+
+*October 2021–February 2022 | Entrepreneurship and Technology*
+
+- Co-founded and helped launch a social-media application on the Apple App Store.
+- Led marketing, product positioning, and outreach initiatives to support the application's launch and user acquisition.
+
 ---
 
 Learn more about my [Research](/research/), [Teaching](/teaching/), [Personal Journey](/my-journey/), or view my [Curriculum Vitae](/cv/).
