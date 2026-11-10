@@ -142,8 +142,6 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Applied network service areas, least-cost paths, elevation-informed route analysis, and accessibility measures.
 - Extended prior transportation-equity research through network-based approaches to bikeshare, transit, and affordable-housing accessibility.
 
-### Education, Food Policy, Labor Economics, and Inequality
-
 #### From Happy Kids to Successful Adults: Sibling Evidence on Childhood Emotional Well-Being
 
 *April 2025 · Economics Research Paper*
@@ -189,19 +187,6 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found approximately 2.6% lower average household income in reform states during the post-2000 period (β = -0.0259, p < 0.01), with a similar estimate after matching (β = -0.0226, p < 0.01).
 - Interpreted the estimates cautiously because reform timing varied across states.
 
-#### What is the relationship between inequality and GDP growth?
-
-*Fall 2021 · ECON 4331W: Economic Development · University of Minnesota Twin Cities · Instructor: Jacob Strauss*
-
-- Examined relationships between income inequality and GDP per capita growth across countries, with particular attention to the United States and China.
-- Used World Bank indicators including GDP per capita growth, Gini coefficients, adjusted net national income, labor-force measures, and education expenditure.
-- Estimated a multivariable linear regression using 1,310 observations.
-- Examined residual plots, normal Q-Q plots, leverage, and scale-location diagnostics.
-- Found a statistically significant negative association between the Gini coefficient and GDP per capita growth (β = -0.069, SE = 0.014, p < 0.01).
-- Discussed the limited explanatory power of the specification (R² = 0.057) and potential endogeneity.
-
-### Mathematics and Stochastic Modeling
-
 #### Construction of ℝ Using Cauchy Sequences of Rational Numbers
 
 *Fall 2024 · MATH 135: Real Analysis I · Tufts University · Instructor: Professor Nima Hoda*
@@ -223,6 +208,17 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Calculated that exactly one bulb operates approximately 28.17% of the time and that the expected interval between replacements is 71 days.
 - Derived asymptotic expressions for the coupon collector problem, obtaining expected collection time of approximately \(N \log N\) and variance of approximately \((\pi^2/6)N^2\).
 - Examined additional continuous-time inventory and queueing applications.
+
+#### What is the relationship between inequality and GDP growth?
+
+*Fall 2021 · ECON 4331W: Economic Development · University of Minnesota Twin Cities · Instructor: Jacob Strauss*
+
+- Examined relationships between income inequality and GDP per capita growth across countries, with particular attention to the United States and China.
+- Used World Bank indicators including GDP per capita growth, Gini coefficients, adjusted net national income, labor-force measures, and education expenditure.
+- Estimated a multivariable linear regression using 1,310 observations.
+- Examined residual plots, normal Q-Q plots, leverage, and scale-location diagnostics.
+- Found a statistically significant negative association between the Gini coefficient and GDP per capita growth (β = -0.069, SE = 0.014, p < 0.01).
+- Discussed the limited explanatory power of the specification (R² = 0.057) and potential endogeneity.
 
 ## Technical Skills and Research Methods
 
