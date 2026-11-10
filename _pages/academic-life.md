@@ -79,11 +79,10 @@ This international academic experience provided an opportunity to explore urban 
 
 *Summer 2026*
 
-**Spatial Analysis of LIHTC, Housing Affordability, and Health**
+**[Spatial Analysis of LIHTC, Housing Affordability, and Health](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)**
 
 Recognized as a finalist for an ArcGIS StoryMap examining affordable housing, housing affordability, and neighborhood health disparities in Massachusetts.
 
-[View ArcGIS StoryMap](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)
 
 ### Dean's List — University of Minnesota Twin Cities
 
