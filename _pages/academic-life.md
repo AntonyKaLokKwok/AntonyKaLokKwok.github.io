@@ -59,7 +59,7 @@ Professor Justin Hollander is designated as the primary presenter.
 
 Presenting at AAG provided an opportunity to share my research, engage with scholars, and gain experience communicating quantitative research to an interdisciplinary academic audience.
 
-For research descriptions and methodological details, visit my [Research](/research/) and [Conference Presentations](/talks/) pages.
+For research descriptions and methodological details, visit my [Research](/research/) page.
 
 ## Academic Programs and Experiences
 
