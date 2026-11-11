@@ -9,10 +9,10 @@ redirect_from:
 
 ## Academic CV
 
-I am preparing the latest version of my academic curriculum vitae for this page.
+My academic CV includes my education, research experience, research in progress, conference presentations, selected research projects, teaching experience, academic service, professional experience, and technical skills.
 
-The CV will cover education, research interests and experience, teaching, presentations, academic service, and technical skills.
+[**View Academic CV ↗**](/files/Ka_Lok_Antony_Kwok_Academic_CV.pdf){:target="_blank" rel="noopener noreferrer"}
 
-Please [contact me by email](mailto:Ka_Lok.Kwok@tufts.edu) for the most up-to-date copy in the meantime.
+[**Download PDF**](/files/Ka_Lok_Antony_Kwok_Academic_CV.pdf){:target="_blank"}
 
-*The downloadable PDF will be added after I have finalized and reviewed my CV.*
+Please feel free to [contact me by email](mailto:Ka_Lok.Kwok@tufts.edu) for additional information.
