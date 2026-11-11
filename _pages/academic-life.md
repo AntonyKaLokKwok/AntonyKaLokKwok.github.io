@@ -33,6 +33,12 @@ Completed graduate coursework in microeconomic theory, macroeconomic theory, sta
 
 My undergraduate studies developed my interests in mathematical modeling, statistical analysis, econometrics, and the application of quantitative methods to economic and social questions.
 
+### 2027 — Urban Affairs Association (UAA) Annual Conference
+
+*Accepted for Presentation | Coauthor with Professor Justin Hollander*
+
+**What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia**
+
 ## Academic Conferences and Research Communities
 
 Participating in academic conferences allows me to exchange ideas, learn from researchers across disciplines, and receive feedback on my work.
@@ -43,13 +49,6 @@ Participating in academic conferences allows me to exchange ideas, learn from re
 
 **Spatial Inequalities in Bluebikes Accessibility: Affordable Housing, Transportation Disadvantage, and Urban Heat in Boston**
 
-### 2027 — Urban Affairs Association (UAA) Annual Conference
-
-*Accepted for Presentation | Coauthor with Professor Justin Hollander*
-
-**What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia**
-
-Professor Justin Hollander is designated as the primary presenter.
 
 ### 2026 — American Association of Geographers (AAG) Annual Meeting
 
