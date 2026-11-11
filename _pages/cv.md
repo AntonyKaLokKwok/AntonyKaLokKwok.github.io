@@ -11,8 +11,9 @@ redirect_from:
 
 My academic CV includes my education, research experience, research in progress, conference presentations, selected research projects, teaching experience, academic service, professional experience, and technical skills.
 
-[**View Academic CV ↗**](/files/Ka_Lok_Antony_Kwok_Academic_CV.pdf){:target="_blank" rel="noopener noreferrer"}
+[View Academic CV ↗](/files/Ka%20Lok%20%28Antony%29%20Kwok%20Academic%20CV%20Nov%202026.pdf){: .btn .btn--primary target="_blank" rel="noopener noreferrer"}
 
-[**Download PDF**](/files/Ka_Lok_Antony_Kwok_Academic_CV.pdf){:target="_blank"}
+[Download CV (PDF)](/files/Ka%20Lok%20%28Antony%29%20Kwok%20Academic%20CV%20Nov%202026.pdf){: .btn .btn--inverse}
 
-Please feel free to [contact me by email](mailto:Ka_Lok.Kwok@tufts.edu) for additional information.
+**School Email:** [Ka_Lok.Kwok@tufts.edu](mailto:Ka_Lok.Kwok@tufts.edu)  
+**Personal Email:** [antony.kalok.kwok@gmail.com](mailto:antony.kalok.kwok@gmail.com)
