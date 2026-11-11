@@ -33,13 +33,13 @@ Completed graduate coursework in microeconomic theory, macroeconomic theory, sta
 
 My undergraduate studies developed my interests in mathematical modeling, statistical analysis, econometrics, and the application of quantitative methods to economic and social questions.
 
+## Academic Conferences and Research Communities
+
 ### 2027 — Urban Affairs Association (UAA) Annual Conference
 
 *Accepted for Presentation | Coauthor with Professor Justin Hollander*
 
 **What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia**
-
-## Academic Conferences and Research Communities
 
 Participating in academic conferences allows me to exchange ideas, learn from researchers across disciplines, and receive feedback on my work.
 
