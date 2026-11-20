@@ -133,7 +133,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Identified a weaker temperature-ridership association in neighborhoods with higher minority population shares (interaction β ≈ -5.04, p < 0.05).
 - Examined heat-related vulnerability across neighborhoods including Roxbury, Dorchester, Chinatown, and East Boston.
 
-#### Does Gender and Marital Status Affect Workplace Inequality?
+#### [Does Gender and Marital Status Affect Workplace Inequality?](https://antonykalokkwok.github.io/files/Does%20Gender%20and%20Marital%20Status%20Affect%20Workplace%20Inequality.pdf)
 
 *Spring 2025 · EC 202: Econometrics · Tufts University · Instructor: Professor Matthew Gudgeon*
 
@@ -144,7 +144,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Identified an additional negative female-marital-status interaction (β = -2,458 RMB, p < 0.01).
 - Found stronger negative gender-marital-status associations in urban than rural areas (β = -3,929 versus -2,299 RMB, both p < 0.01).
 
-#### School Financial Reform and Income Inequality
+#### [School Financial Reform and Income Inequality](https://antonykalokkwok.github.io/files/School%20Financial%20Reform%20and%20Income%20Inequality.pdf)
 
 *Spring 2025 · EC 144: Income Inequality · Tufts University · Instructor: Professor Elizabeth Setren*
 
