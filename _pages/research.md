@@ -5,6 +5,51 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+/* Research page typography */
+.page__content h2 {
+  font-size: 1.45em !important;
+  font-weight: 700 !important;
+  line-height: 1.3 !important;
+  margin-top: 1.8em !important;
+  margin-bottom: 0.7em !important;
+}
+
+.page__content h3 {
+  font-size: 1.18em !important;
+  font-weight: 700 !important;
+  line-height: 1.4 !important;
+  margin-top: 1.4em !important;
+  margin-bottom: 0.45em !important;
+}
+
+.page__content h3 a {
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  color: inherit;
+  text-decoration: none;
+}
+
+.page__content h3 a:hover {
+  text-decoration: underline;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 1em;
+  line-height: 1.6;
+}
+
+.page__content ul {
+  margin-top: 0.4em;
+  margin-bottom: 1.2em;
+}
+
+.page__content h3 + p {
+  margin-top: 0.3em;
+}
+</style>
+
 My research specializes in **quantitative urban policy analysis**, drawing on applied microeconomics, econometrics, macroeconomic modeling, and geographic information systems (GIS). My work examines affordable housing, neighborhood socioeconomic inequality, transportation accessibility, environmental justice, health equity, education, labor-market inequality, food policy, and geographic information inequality. I use causal inference, policy evaluation, spatial econometrics, dynamic economic modeling, and computational urban analytics to study these issues.
 
 My academic background includes an **M.S. in Economics from Tufts University (May 2025)**, a **B.S. in Econometrics and Quantitative Economics**, a **B.A. in Mathematics**, and a **minor in Statistics** from the University of Minnesota Twin Cities (December 2023). I am currently pursuing an **M.S. in Environmental Policy and Planning at Tufts University (expected May 2027)**.
@@ -54,23 +99,29 @@ Extending previous research on urban heat, neighborhood inequality, and bikeshar
 
 ## Conference Presentations
 
-### Urban Affairs Association (UAA) Annual Conference <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>April 2027 · Accepted for Presentation</em></span>
+### Urban Affairs Association (UAA) Annual Conference
 
-Hollander, J., & Kwok, A. “What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia.”
+*April 2027 · Accepted for Presentation*
+
+**Hollander, J., & Kwok, A. “What does Wikipedia say about Cities? Epistemology and Spatial Distribution in the World’s Largest Encyclopedia.”**
 
 Coauthor; Professor Justin Hollander designated as primary presenter.
 
-### American Association of Geographers (AAG) Annual Meeting <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>February 2027 · Accepted for Presentation</em></span>
+### American Association of Geographers (AAG) Annual Meeting
 
-“Spatial Inequalities in Bluebikes Accessibility: Affordable Housing, Transportation Disadvantage, and Urban Heat in Boston.”
+*February 2027 · Accepted for Presentation*
 
-### American Association of Geographers (AAG) Annual Meeting <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>March 20, 2026 · San Francisco, CA · Presented</em></span>
+**“Spatial Inequalities in Bluebikes Accessibility: Affordable Housing, Transportation Disadvantage, and Urban Heat in Boston.”**
 
-[“Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access.”](https://antonykalokkwok.github.io/files/AAG%202026%20slides.pdf)
+### American Association of Geographers (AAG) Annual Meeting
+
+*March 20, 2026 · San Francisco, CA · Presented*
+
+**[“Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access.”](https://antonykalokkwok.github.io/files/AAG%202026%20slides.pdf)**
 
 ## Research Papers and Applied Projects
 
-#### [Housing and Transit Vulnerability in Grand Annecy ↗](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d){:target="_blank" rel="noopener noreferrer"}
+### [Housing and Transit Vulnerability in Grand Annecy ↗](https://storymaps.arcgis.com/stories/071b6237ee6f42d6910057581f362c9d)
 
 *Summer 2026 · GIS 201: Introduction to GIS · ArcGIS StoryMap · Grand Annecy, France · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
@@ -80,7 +131,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Applied Global and Local Moran’s I to assess spatial clustering and identify vulnerability hotspots.
 - Identified significant positive spatial autocorrelation in the composite vulnerability index (Global Moran’s I = 0.627, z = 9.33, p < 0.001).
 
-#### Spatial Analysis of LIHTC Development, Housing Affordability, and Tract-Level Health in Massachusetts
+### Spatial Analysis of LIHTC Development, Housing Affordability, and Tract-Level Health in Massachusetts
 
 *Spring 2026 · GIS 203: Spatial Statistics · Research Paper · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
@@ -92,7 +143,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Conducted an exploratory two-way fixed-effects Difference-in-Differences analysis of LIHTC development timing and rent burden, finding no statistically significant post-development change (β = 0.0122, p = 0.413).
 - Results are interpreted as tract-level spatial relationships rather than individual-level causal health effects.
 
-#### [Spatial Analysis of LIHTC, Housing Affordability, and Health ↗](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a){:target="_blank" rel="noopener noreferrer"}
+### [Spatial Analysis of LIHTC, Housing Affordability, and Health ↗](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)
 
 *Spring 2026 · GIS 203: Spatial Statistics · ArcGIS StoryMap · Interactive GIS Visualization · Tufts University · Instructor: Professor Sumeeta Srinivasan*
 
@@ -102,7 +153,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Applied thematic mapping, Local Moran’s I (LISA), and geographically weighted regression visualizations to identify localized clusters, spatial outliers, and geographic variation in LIHTC-health associations.
 - Visualized stronger positive local associations between LIHTC intensity and high blood pressure in parts of Central and Western Massachusetts and weaker or negative associations in Greater Boston.
 
-#### Bluebikes Access, Affordable Housing, and Heat Inequality in Boston
+### Bluebikes Access, Affordable Housing, and Heat Inequality in Boston
 
 *Spring 2026 · UEP 173: Transportation Planning · Research Paper · Tufts University · Instructor: Professor Shan Jiang*
 
@@ -113,7 +164,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found a stronger positive relationship between temperature and ridership in LIHTC tracts with station access (β ≈ 9.92, p < 0.001).
 - Interpreted the findings as exploratory spatial and transportation relationships rather than causal effects.
 
-#### [Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space](https://tufts.app.box.com/s/l56wxxner99ro1oczyvat9dz5fxuaegc)
+### [Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space](https://tufts.app.box.com/s/l56wxxner99ro1oczyvat9dz5fxuaegc)
 
 *Spring 2026 · UEP 255: Field Projects · Collaborative Research Project · Tufts University · Instructor: Professor Penn Loh · Community Partner: Chinatown Community Land Trust (CCLT)*
 
@@ -122,7 +173,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Conducted resident interviews in Cantonese.
 - Contributed to stakeholder engagement, qualitative data collection, policy analysis, and community-centered planning recommendations.
 
-#### Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access
+### Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access
 
 *Fall 2025 · UEP 237: Urban Analytics · Research Paper · Tufts University · Instructor: Professor Shan Jiang · Presented at AAG 2026*
 
@@ -133,7 +184,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Identified a weaker temperature-ridership association in neighborhoods with higher minority population shares (interaction β ≈ -5.04, p < 0.05).
 - Examined heat-related vulnerability across neighborhoods including Roxbury, Dorchester, Chinatown, and East Boston.
 
-#### [Does Gender and Marital Status Affect Workplace Inequality?](https://antonykalokkwok.github.io/files/Does%20Gender%20and%20Marital%20Status%20Affect%20Workplace%20Inequality.pdf)
+### [Does Gender and Marital Status Affect Workplace Inequality?](https://antonykalokkwok.github.io/files/Does%20Gender%20and%20Marital%20Status%20Affect%20Workplace%20Inequality.pdf)
 
 *Spring 2025 · EC 202: Econometrics · Tufts University · Instructor: Professor Matthew Gudgeon*
 
@@ -144,7 +195,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Identified an additional negative female-marital-status interaction (β = -2,458 RMB, p < 0.01).
 - Found stronger negative gender-marital-status associations in urban than rural areas (β = -3,929 versus -2,299 RMB, both p < 0.01).
 
-#### [School Financial Reform and Income Inequality](https://antonykalokkwok.github.io/files/School%20Financial%20Reform%20and%20Income%20Inequality.pdf)
+### [School Financial Reform and Income Inequality](https://antonykalokkwok.github.io/files/School%20Financial%20Reform%20and%20Income%20Inequality.pdf)
 
 *Spring 2025 · EC 144: Income Inequality · Tufts University · Instructor: Professor Elizabeth Setren*
 
@@ -156,7 +207,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found approximately 2.6% lower average household income in reform states during the post-2000 period (β = -0.0259, p < 0.01), with a similar estimate after matching (β = -0.0226, p < 0.01).
 - Interpreted the estimates cautiously because reform timing varied across states.
 
-#### [Construction of ℝ Using Cauchy Sequences of Rational Numbers](https://antonykalokkwok.github.io/files/Math_135_Final_Project_Report.pdf)
+### [Construction of ℝ Using Cauchy Sequences of Rational Numbers](https://antonykalokkwok.github.io/files/Math_135_Final_Project_Report.pdf)
 
 *Fall 2024 · MATH 135: Real Analysis I · Tufts University · Instructor: Professor Nima Hoda*
 
@@ -167,7 +218,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Established the density of rational numbers in ℝ through rational approximations and convergence arguments.
 - Investigated completeness using a diagonal-sequence construction.
 
-#### Introduction to Markov Chains and Stochastic Decision-Making
+### Introduction to Markov Chains and Stochastic Decision-Making
 
 *Fall 2023 · Math 4997W: Senior Project (Writing Intensive) · University of Minnesota Twin Cities · Supervisor: Professor Sergey Bobkov*
 
@@ -178,7 +229,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Derived asymptotic expressions for the coupon collector problem, obtaining expected collection time of approximately \(N \log N\) and variance of approximately \((\pi^2/6)N^2\).
 - Examined additional continuous-time inventory and queueing applications.
 
-#### What is the relationship between inequality and GDP growth?
+### What is the relationship between inequality and GDP growth?
 
 *Fall 2021 · ECON 4331W: Economic Development · University of Minnesota Twin Cities · Instructor: Jacob Strauss*
 
