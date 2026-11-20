@@ -131,10 +131,10 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Applied Global and Local Moran’s I to assess spatial clustering and identify vulnerability hotspots.
 - Identified significant positive spatial autocorrelation in the composite vulnerability index (Global Moran’s I = 0.627, z = 9.33, p < 0.001).
 
-### Spatial Analysis of LIHTC Development, Housing Affordability, and Tract-Level Health in Massachusetts
+### [Spatial Analysis of LIHTC Development, Housing Affordability, and Tract-Level Health in Massachusetts↗](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)
 
-*Spring 2026 · GIS 203: Spatial Statistics · Research Paper · Tufts University · Instructor: Professor Sumeeta Srinivasan*
-
+*Spring 2026 · GIS 203: Spatial Statistics · Research Paper &  ArcGIS StoryMaps · Tufts University · Instructor: Professor Sumeeta Srinivasan*
+**2026 Tufts GIS Expo — GIS Award Finalist (Advanced StoryMaps)**
 - Integrated HUD LIHTC property-level records, ACS socioeconomic and housing indicators, CDC PLACES health estimates, and Census TIGER/Line boundaries.
 - Applied exploratory spatial data analysis (ESDA), Local Moran’s I (LISA), cross-sectional OLS, residual spatial-autocorrelation tests, and geographically weighted regression (GWR).
 - Found a positive tract-level association between LIHTC concentration and high blood pressure prevalence (β = 0.465, p = 0.0094), alongside substantial geographic heterogeneity.
@@ -142,16 +142,6 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - GWR produced higher in-sample model fit than the corresponding OLS specification (R² = 0.871 versus 0.696).
 - Conducted an exploratory two-way fixed-effects Difference-in-Differences analysis of LIHTC development timing and rent burden, finding no statistically significant post-development change (β = 0.0122, p = 0.413).
 - Results are interpreted as tract-level spatial relationships rather than individual-level causal health effects.
-
-### [Spatial Analysis of LIHTC, Housing Affordability, and Health ↗](https://storymaps.arcgis.com/stories/9cdf1d44cebd4872a843927d8724f69a)
-
-*Spring 2026 · GIS 203: Spatial Statistics · ArcGIS StoryMap · Interactive GIS Visualization · Tufts University · Instructor: Professor Sumeeta Srinivasan*
-
-**2026 Tufts GIS Expo — GIS Award Finalist (Advanced StoryMaps)**
-
-- Developed an interactive ArcGIS StoryMap illustrating the spatial distribution of LIHTC developments, housing affordability, and neighborhood health conditions across Massachusetts.
-- Applied thematic mapping, Local Moran’s I (LISA), and geographically weighted regression visualizations to identify localized clusters, spatial outliers, and geographic variation in LIHTC-health associations.
-- Visualized stronger positive local associations between LIHTC intensity and high blood pressure in parts of Central and Western Massachusetts and weaker or negative associations in Greater Boston.
 
 ### Bluebikes Access, Affordable Housing, and Heat Inequality in Boston
 
