@@ -156,7 +156,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found approximately 2.6% lower average household income in reform states during the post-2000 period (β = -0.0259, p < 0.01), with a similar estimate after matching (β = -0.0226, p < 0.01).
 - Interpreted the estimates cautiously because reform timing varied across states.
 
-#### Construction of ℝ Using Cauchy Sequences of Rational Numbers
+#### [Construction of ℝ Using Cauchy Sequences of Rational Numbers](https://antonykalokkwok.github.io/files/Math_135_Final_Project_Report.pdf)
 
 *Fall 2024 · MATH 135: Real Analysis I · Tufts University · Instructor: Professor Nima Hoda*
 
