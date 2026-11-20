@@ -66,7 +66,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 
 ### American Association of Geographers (AAG) Annual Meeting <span style="float: right; font-size: 0.8em; font-weight: normal;"><em>March 20, 2026 · San Francisco, CA · Presented</em></span>
 
-“Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access.”
+[“Mapping Urban Heat Inequality in Boston: Integrating Affordable Housing, Income, and Bluebikes Access.”](https://antonykalokkwok.github.io/files/AAG%202026%20slides.pdf)
 
 ## Research Papers and Applied Projects
 
@@ -113,7 +113,7 @@ Coauthor; Professor Justin Hollander designated as primary presenter.
 - Found a stronger positive relationship between temperature and ridership in LIHTC tracts with station access (β ≈ 9.92, p < 0.001).
 - Interpreted the findings as exploratory spatial and transportation relationships rather than causal effects.
 
-#### Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space
+#### [Advancing Environmental Justice in Boston's Chinatown: Evaluation and Strategies for Just Energy Transition and Resilient Open Space](https://tufts.app.box.com/s/l56wxxner99ro1oczyvat9dz5fxuaegc)
 
 *Spring 2026 · UEP 255: Field Projects · Collaborative Research Project · Tufts University · Instructor: Professor Penn Loh · Community Partner: Chinatown Community Land Trust (CCLT)*
 
